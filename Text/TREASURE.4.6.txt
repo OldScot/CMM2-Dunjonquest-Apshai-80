@@ -1,0 +1,10 @@
+@'TREASURE.4.6.TXT
+@<TREASURE.4.5
+@>TREASURE.4.7
+@*MAGIC.2
+@T
+Level 4 - Treasure Six
+The runes on the cover prove to be flecked
+with mithril which prompts you to Stash
+the book in your backpack for later perusal,
+(see Magic Book*).

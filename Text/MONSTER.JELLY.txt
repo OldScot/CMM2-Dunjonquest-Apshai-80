@@ -1,0 +1,8 @@
+@'MONSTER.JELLY.TXT
+@<MONSTER.GIANT WASP
+@>MONSTER.SKELETAL BAT
+@T
+Jellies
+Are formless masses of translucent jelly about three
+feet high and six or eight feet across; their touch
+dissolves flesh. They have no socially redeeming value.

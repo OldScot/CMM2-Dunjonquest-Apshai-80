@@ -1,0 +1,9 @@
+@'TREASURE.1.5.TXT
+@<TREASURE.1.4
+@>TREASURE.1.6
+@*KEY.FLORA
+@T
+Level 1 - Treasure Five
+The aroma of the plant overcomes your better judgement
+and you taste a bit of it.  It is delicious and builds
+strong bodies twelve ways (see Food Algae*). 

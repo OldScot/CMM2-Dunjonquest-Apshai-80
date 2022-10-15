@@ -1,0 +1,7 @@
+@'TREASURE.3.11.TXT
+@<TREASURE.3.10
+@>TREASURE.3.12
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Eleven
+One small diamond* mingles with the earth.

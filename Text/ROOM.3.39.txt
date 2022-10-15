@@ -1,0 +1,9 @@
+@'ROOM.3.39.TXT
+@<ROOM.3.38
+@>ROOM.3.40
+@T
+Level 3 - Room Thirty-nine
+Is a small natural cave. The dusty floor evidences
+much disturbance. Scattered bones litter the dust
+and a discarded backpack rests in the northeast
+corner. The air smells of ancient death.

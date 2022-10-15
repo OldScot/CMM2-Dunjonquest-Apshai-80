@@ -1,0 +1,7 @@
+@'ROOM.4.40.TXT
+@<ROOM.4.39
+@>ROOM.4.41
+@T
+Level 4 - Room Forty
+The floor shows a worn path through the opening
+to the north and the air smells of vanilla.

@@ -1,0 +1,9 @@
+@'ROOM.4.37.TXT
+@<ROOM.4.36
+@>ROOM.4.38
+@T
+Level 4 - Room Thirty-seven
+The east end of this room holds a number of
+wooden targets painted with human silhouettes.
+The southernmost target still has some arrows
+stuck in it.

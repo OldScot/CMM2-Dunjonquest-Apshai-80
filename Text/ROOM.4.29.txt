@@ -1,0 +1,11 @@
+@'ROOM.4.29.TXT
+@<ROOM.4.28
+@>ROOM.4.30
+@T
+Level 4 - Room Twenty-nine
+Is a smallish room furnished only with rotting
+cushions strewn about the floor. Tattered tapestries
+hang on the east and west wails showing scenes of
+obscene and bloody sacrifice before a mantis shaped
+god. A shiny object protrudes from beneath one of
+the cushions near the center of the room.

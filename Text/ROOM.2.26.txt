@@ -1,0 +1,11 @@
+@'ROOM.2.26.TXT
+@<ROOM.2.25
+@>ROOM.2.27
+@T
+Level 2 - Room Twenty-six
+Large vats and tubs are set into the floor of the
+small chamber and heaps of rotting clothing litter
+the room. The sound of flowing water can be heard
+through the moss hung doorway to the east. The
+dusty floor is undisturbed and the air smells of
+damp greenery.

@@ -1,0 +1,10 @@
+@'ROOM.3.19.TXT
+@<ROOM.3.18
+@>ROOM.3.20
+@T
+Level 3 - Room Nineteen
+Is a passage with the floor and walls of carved stone
+and a native stone ceiling. The opening to the east
+has been carved through the rock. The dusty floor
+shows signs of much activity. A discarded cloak lies
+against the west wall.

@@ -1,0 +1,9 @@
+@'TREASURE.2.5.TXT
+@<TREASURE.2.4
+@>TREASURE.2.6
+@*KEY.MISC
+@T
+Level 2 - Treasure Five
+On a shelf on the south wall you find two
+small silver ingots*, two copper ingots* and
+a tiny box with three small diamonds* inside.

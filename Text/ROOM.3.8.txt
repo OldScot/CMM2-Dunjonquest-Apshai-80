@@ -1,0 +1,9 @@
+@'ROOM.3.8.TXT
+@<ROOM.3.7
+@>ROOM.3.9
+@T
+Level 3 - Room Eight
+Is also a natural cave. The opening to the west
+has been carved through solid granite. Small
+slides line the walls and a heap of bones fills
+the southeast corner.

@@ -1,0 +1,10 @@
+@'ROOM.4.14.TXT
+@<ROOM.4.13
+@>ROOM.4.15
+@T
+Level 4 - Room Fourteen
+Is a small room. A shelf on the west wall holds a small
+dark chest with a key in the lock. The south and east
+walls are hung with an assortment of rusty arms and
+armor. The dusty floor shows no sign of disturbance and
+the air is foul.

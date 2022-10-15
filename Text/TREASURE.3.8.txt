@@ -1,0 +1,7 @@
+@'TREASURE.3.8.TXT
+@<TREASURE.3.7
+@>TREASURE.3.9
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Eight
+One small ruby* lays in the dirt.

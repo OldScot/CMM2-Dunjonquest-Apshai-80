@@ -1,0 +1,8 @@
+@'ROOM.4.26.TXT
+@<ROOM.4.25
+@>ROOM.4.27
+@T
+Level 4 - Room Twenty-six
+The dusty floor is marked by the tracks of large
+animals and the air reeks of musk. The doors to the
+north and south are of plain wood and have no locks.

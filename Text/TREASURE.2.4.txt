@@ -1,0 +1,8 @@
+@'TREASURE.2.4.TXT
+@<TREASURE.2.3
+@>TREASURE.2.5
+@*KEY.MISC
+@T
+Level 2 - Treasure Four
+You stumble across a finely worked shield
+with mithril* worked into it. 

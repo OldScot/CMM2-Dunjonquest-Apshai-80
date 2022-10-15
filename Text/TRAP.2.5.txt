@@ -1,0 +1,7 @@
+@'TRAP.2.5.TXT
+@<TRAP.2.3
+@>TRAP.2.7
+@T
+Level 2 - SPEAR TRAP
+
+A spear thrusts out of the wall and then retracts.

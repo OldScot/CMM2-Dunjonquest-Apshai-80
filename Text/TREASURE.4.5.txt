@@ -1,0 +1,12 @@
+@'TREASURE.4.5.TXT
+@<TREASURE.4.4
+@>TREASURE.4.6
+@*KEY.GEMSJEWELRY
+@T
+Level 4 - Treasure Five
+The chest holds sixty gold pieces, fifteen
+small emeralds*, an emerald bracelet*, two
+diamond stickpins*, two gold chains* and a
+pair of fine leather boots with mithril
+slivers embedded in the soles, (see Magic
+Boots*).

@@ -1,0 +1,9 @@
+@'ROOM.3.50.TXT
+@<ROOM.3.49
+@>ROOM.3.51
+@T
+Level 3 - Room Fifty
+Is a smallish cave with the floor carved level. A
+well worn path runs between the north and south
+openings. The air smells faintly of vanilla. A
+stack of rusty tools leans against the east wall.

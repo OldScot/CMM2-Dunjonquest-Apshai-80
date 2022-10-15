@@ -1,0 +1,9 @@
+@'TREASURE.1.7.TXT
+@<TREASURE.1.6
+@>TREASURE.1.8
+@*KEY.FLORA
+@T
+Level 1 - Treasure Seven
+Having spent some time up and down the coast you
+know of several varieties of useful seaweed
+so you take some along (see Kelp*). 

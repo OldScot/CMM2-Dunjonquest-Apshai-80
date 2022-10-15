@@ -1,0 +1,7 @@
+@'TRAP.1.9.TXT
+@<TRAP.1.8
+@>TRAP.2.1
+@T
+Level 2 - CEILING TRAP
+
+An undocumented ceiling trap.

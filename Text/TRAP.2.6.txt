@@ -1,0 +1,8 @@
+@'TRAP.2.6.TXT
+@<TRAP.2.9
+@>TRAP.2.3
+@T
+Level 2 - NEEDLE TRAP
+
+A needle springs from the lock very
+near to your hand.

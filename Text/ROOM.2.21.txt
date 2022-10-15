@@ -1,0 +1,8 @@
+@'ROOM.2.21.TXT
+@<ROOM.2.20
+@>ROOM.2.22
+@T
+Level 2 - Room Twenty-one
+A small sack lies against the wall at the
+west end of the passage. A well-worn path
+runs the length of the corridor.

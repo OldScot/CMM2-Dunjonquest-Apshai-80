@@ -1,0 +1,11 @@
+@'ROOM.3.56.TXT
+@<ROOM.3.55
+@>ROOM.3.57
+@T
+Level 3 - Room Fifty-six
+Is a natural cave. The opening to the north has been
+dug through the earth without the benefit of tools.
+The walls show the marks of recent digging. The air
+smells heavily of vanilla. A small basket holding a
+few gold nuggets sits on the floor in the southeast
+corner.

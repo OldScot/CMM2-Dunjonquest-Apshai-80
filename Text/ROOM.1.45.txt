@@ -1,0 +1,11 @@
+@'ROOM.1.45.TXT
+@<ROOM.1.44
+@>ROOM.1.46
+@T
+Level 1 - Room Forty-five
+Is a large cavern.  The shiny stuff is lighter inside
+than in the connecting tunnel, but the vanilla odor is
+strong. The clicking sound appears to emanate from
+within. A pile of shiny cocoons fills the northern half
+of the room and gems are scattered about the dirt floor.
+

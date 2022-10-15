@@ -1,0 +1,10 @@
+@'ROOM.4.15.TXT
+@<ROOM.4.14
+@>ROOM.4.16
+@T
+Level 4 - Room Fifteen
+A decrepit bed occupies the north wall, a desk the south
+wall, and a table the middle ot the room. The corners of
+the room are draped in cobwebs. A partially eaten and
+unrecognizable body rests in the southwest corner of the
+room.

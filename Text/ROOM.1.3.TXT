@@ -1,0 +1,10 @@
+@'ROOM.1.3.TXT
+@<ROOM.1.2
+@>ROOM.1.4
+@T
+Level 1 - Room Three
+A finely carved and painted mural fills the east wall
+of the passage, opposite the opening, depicting men
+tilling the soil. A ransacked backpack rests under
+the mural. A roaring sound can be heard from the
+north.

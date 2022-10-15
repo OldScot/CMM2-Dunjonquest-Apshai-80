@@ -1,0 +1,11 @@
+@'ROOM.1.21.TXT
+@<ROOM.1.20
+@>ROOM.1.22
+@T
+Level 1 - Room Twenty-one
+The west wall of the cavern shows the marks of carving
+tools, but the rest is natural rock. The floor of the
+room is overgrown with mushrooms of two varieties.
+One has broad, flat caps and is white with brown
+splotches, while the second variety has black, tightly
+rounded caps.

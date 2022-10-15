@@ -1,0 +1,9 @@
+@'ROOM.4.53.TXT
+@<ROOM.4.52
+@>ROOM.4.54
+@T
+Level 4 - Room Fifty-three
+Is a passage with stonework of the south and west
+walls and the other walls, floor, and ceiling of
+carved rock. A moldering sack sits on the floor,
+in the southwest corner of the corridor.

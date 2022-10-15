@@ -1,0 +1,9 @@
+@'ROOM.3.17.TXT
+@<ROOM.3.16
+@>ROOM.3.18
+@T
+Level 3 - Room Seventeen
+Is a narrow tunnel bored through native rock. The
+rough stone floor is littered with bones and a
+small skull rests in the north end of the passage.
+No tracks can be seen.

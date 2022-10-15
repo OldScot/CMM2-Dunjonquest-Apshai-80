@@ -1,0 +1,9 @@
+@'MONSTER.GNT LEECH.TXT
+@<MONSTER.FIRE BEETLE
+@>MONSTER.MOSQUITO
+@T
+Giant Leeches
+A disgusting rubbery grey, these are two or three
+feet long. They travel about on a trail of slime
+and drain their prey of bodyfluids within their
+sucker mouths.

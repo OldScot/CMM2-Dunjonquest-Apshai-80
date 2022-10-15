@@ -1,0 +1,12 @@
+@'ROOM.2.23.TXT
+@<ROOM.2.22
+@>ROOM.2.24
+@T
+Level 2 - Room Twenty-three
+Strange implements litter a table in the center of
+the room. Here and there are various cages with the
+remains of animals. Jars filled with a viscous
+liquid and holding a miscellany of body parts from
+assorted creatures are stored in racks on the north
+wall. The door to the east is made of wood and is
+secured with a rusty iron bolt.

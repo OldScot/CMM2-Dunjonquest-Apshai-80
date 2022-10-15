@@ -1,0 +1,9 @@
+@'ROOM.4.50.TXT
+@<ROOM.4.49
+@>ROOM.4.51
+@T
+Level 4 - Room Fifty
+Is a passage like forty-nine. The carpet of dust is
+slightly disturbed near the eastern end of the
+passage, but is otherwise unbroken. The everpresent
+smell of vanilla continues.

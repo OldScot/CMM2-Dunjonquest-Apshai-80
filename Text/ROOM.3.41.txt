@@ -1,0 +1,10 @@
+@'ROOM.3.41.TXT
+@<ROOM.3.40
+@>ROOM.3.42
+@T
+Level 3 - Room Forty-one
+Is a natural cave. The opening to the west has been
+dug through the earth but shows no toolmarks. The
+floor is well trodden and the smell of vanilla fills
+the air. A pile of baskets leans against the wall in
+the northeast corner.

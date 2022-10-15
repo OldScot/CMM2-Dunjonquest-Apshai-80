@@ -1,0 +1,11 @@
+@'ROOM.3.44.TXT
+@<ROOM.3.43
+@>ROOM.3.45
+@T
+Level 3 - Room Forty-four
+Is a huge natural cavern with a leveled floor,
+although a few stalactites hang from the roof. The
+opening to the north has been dug through the rock.
+A heap of stones stands in the middle of the cavern.
+There is a faint draft of air blowing from north to
+south through the cavern.

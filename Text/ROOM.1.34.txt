@@ -1,0 +1,10 @@
+@'ROOM.1.34.TXT
+@<ROOM.1.33
+@>ROOM.1.35
+@T
+Level 1 - Room Thirty-four
+A trail of shiny excretions run the length of
+the passage and the vanilla odor is stronger
+than before. The clicking sound is clearly
+audible from the north end of the tunnel.
+

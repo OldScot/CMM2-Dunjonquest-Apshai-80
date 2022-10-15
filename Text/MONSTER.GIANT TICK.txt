@@ -1,0 +1,9 @@
+@'MONSTER.GIANT TICK.TXT
+@<MONSTER.GNT TERMITE
+@>MONSTER.GIANT WASP
+@T
+Giant Ticks
+Are foot long ticks and are dark brown or
+black in color. They are hard shelled and
+leap about on their strong hindmost legs.
+They drain body fluids with their proboscises.

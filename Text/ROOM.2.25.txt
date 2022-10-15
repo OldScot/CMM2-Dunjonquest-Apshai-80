@@ -1,0 +1,12 @@
+@'ROOM.2.25.TXT
+@<ROOM.2.24
+@>ROOM.2.26
+@T
+Level 2 - Room Twenty-five
+Remnants of books and scraps of paper rest on a
+rack along the north wall while a desk fills
+most of the south wall, and a cabinet and bed
+are flush with the east wall. The sound of
+flowing water comes from an opening in the
+northeast corner where a stream flows beneath
+the flooring.

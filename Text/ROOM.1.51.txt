@@ -1,0 +1,8 @@
+@'ROOM.1.51.TXT
+@<ROOM.1.50
+@>ROOM.1.52
+@T
+Level 1 - Room Fifty-one
+A rotting wood cabinet stands in the southwest corner
+of the chamber, the brass lock of the cabinet broken.
+

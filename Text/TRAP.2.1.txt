@@ -1,0 +1,7 @@
+@'TRAP.2.1.TXT
+@<TRAP.1.9
+@>TRAP.2.2
+@T
+Level 2 - DUST TRAP
+
+An undocumented Dust Trap.

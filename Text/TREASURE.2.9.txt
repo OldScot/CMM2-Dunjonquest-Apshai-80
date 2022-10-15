@@ -1,0 +1,8 @@
+@'TREASURE.2.9.TXT
+@<TREASURE.2.8
+@>TREASURE.2.10
+@T
+Level 2 - Treasure Nine
+The moldy sack splits at your touch
+spilling its contents of sixty gold
+pieces to the ground.

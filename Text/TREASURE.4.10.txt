@@ -1,0 +1,7 @@
+@'TREASURE.4.10.TXT
+@<TREASURE.4.9
+@>TREASURE.4.11
+@T
+Level 4 - Treasure Ten
+Scattered in the dust you
+find fifty gold pieces.

@@ -1,0 +1,8 @@
+@'ROOM.3.26.TXT
+@<ROOM.3.25
+@>ROOM.3.27
+@T
+Level 3 - Room Twenty-six
+Is a well trafficked passage with carved rock walls,
+floor and ceiling. A broken shovel protrudes from a
+mound of earth near the north end of the passage.

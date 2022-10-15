@@ -1,0 +1,8 @@
+@'TREASURE.1.15.TXT
+@<TREASURE.1.14
+@>TREASURE.1.16
+@T
+Level 1 - Treasure Fifteen
+The sword has mithril worked into the blade, the
+hallmark of magical arms and armor. There are
+also two gold pieces on the body. 

@@ -1,0 +1,12 @@
+@'ROOM.4.20.TXT
+@<ROOM.4.19
+@>ROOM.4.21
+@T
+Level 4 - Room Twenty
+Is a small room that appears to be a natural cave except
+for the west and north walls. A large chest stands open
+in the southeast comer of the room. The west wall is
+covered with soot as is the western part of the ceiling.
+Bones are scattered over the dusty floor and the air
+carries a strange sickly sweet odor. From the chest
+comes the gleam of jewelry and gold.

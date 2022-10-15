@@ -1,0 +1,11 @@
+@'ROOM.3.10.TXT
+@<ROOM.3.9
+@>ROOM.3.11
+@T
+Level 3 - Room Ten
+Is a large natural cavern. Tracks lead into the
+chamber that suggest something heavy being
+dragged. The floor is covered with slimy red muck.
+A pile of body parts and gnawed bones occupies
+the northwest corner and the air reeks of decay
+and death.

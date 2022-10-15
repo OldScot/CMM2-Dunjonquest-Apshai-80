@@ -1,0 +1,17 @@
+@'ROOM.3.60.TXT
+@<ROOM.3.59
+@>ROOM.4.1
+@T
+Level 3 - Room Sixty
+Is a huge vault with stonework walls and floor and a native
+rock ceiling. Rude statues and carved pillars picture men and
+half-men. As the figures become more bestial, the workmanship
+becomes more primitive. Ancient tools and artifacts lie all
+about the chamber. Small stone doors of cunning device line
+the east and south walls. Several of these are open,
+revealing three by three by six foot openings into the rock.
+A shroud hangs from one of the open cavities. Glyphs of
+unknown symbology cover the walls. The dust of the floor is
+thick and undisturbed. The air smells of musty antiquity and
+death. Several urns and coffers in the southeast corner gleam
+with jeweled brilliance.

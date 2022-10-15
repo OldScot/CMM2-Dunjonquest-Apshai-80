@@ -1,0 +1,8 @@
+@'ROOM.1.53.TXT
+@<ROOM.1.52
+@>ROOM.1.54
+@T
+Level 1 - Room Fifty-three
+The north and west walls of the chamber are lined with
+racks of rusty farming and stoneworking implements.
+

@@ -1,0 +1,11 @@
+@'ROOM.3.24.TXT
+@<ROOM.3.23
+@>ROOM.3.25
+@T
+Level 3 - Room Twenty-four
+Is a natural tunnel through the rock. Some signs of
+digging are evident at the southern end of the passage
+though no toolmarks can be discerned The air is filled
+with the scent of vaniila and the floor shows the marks
+of frequent comings and goings. Scraping and clicking
+sounds are faintly audible from the north.

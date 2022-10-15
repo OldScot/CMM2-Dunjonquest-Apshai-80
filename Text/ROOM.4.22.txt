@@ -1,0 +1,9 @@
+@'ROOM.4.22.TXT
+@<ROOM.4.21
+@>ROOM.4.23
+@T
+Level 4 - Room Twenty-two
+A well trodden path in the dust runs up and down the
+corridor and to the doors on the north and south walls.
+The air smells of vanilla. The doors themselves are
+wooden and have no locks.

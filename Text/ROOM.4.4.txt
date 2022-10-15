@@ -1,0 +1,9 @@
+@'ROOM.4.4.TXT
+@<ROOM.4.3
+@>ROOM.4.5
+@T
+Level 4 - Room Four
+A table and four chairs occupy the middle of the room.
+The dusty floor shows some large animal tracks and the
+air smells faintly of vanilla. A rusty sword leans
+against the wall in the southeast corner.

@@ -1,0 +1,11 @@
+@'TREASURE.3.14.TXT
+@<TREASURE.3.13
+@>TREASURE.3.15
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Fourteen
+Inside the backpack you find three hundred
+gold pieces, a pearl ring*, an emerald
+ring* and a sapphire bracelet*. In a pocket
+on the body you find a bronze skull ring*
+with mithnl specks for eyes.

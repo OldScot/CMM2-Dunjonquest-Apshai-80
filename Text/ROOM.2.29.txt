@@ -1,0 +1,8 @@
+@'ROOM.2.29.TXT
+@<ROOM.2.28
+@>ROOM.2.30
+@T
+Level 2 - Room Twenty-nine
+Shelves lining the walls hold a variety of rusted
+and corroded metal scraps. The sound of flowing
+water can be heard through the dusty floor.

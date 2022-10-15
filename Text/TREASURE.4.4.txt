@@ -1,0 +1,7 @@
+@'TREASURE.4.4.TXT
+@<TREASURE.4.3
+@>TREASURE.4.5
+@T
+Level 4 - Treasure Four
+The body wears a moneybelt with
+sixty five gold pieces inside.

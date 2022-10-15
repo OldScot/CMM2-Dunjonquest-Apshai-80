@@ -1,0 +1,10 @@
+@'ROOM.1.39.TXT
+@<ROOM.1.38
+@>ROOM.1.40
+@T
+Level 1 - Room Thirty-nine
+The floor of the passage is lined with the
+excretion and the aroma of vanilla fills the
+air. Clicking sounds echo faintly through
+the passage.
+

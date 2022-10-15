@@ -1,0 +1,7 @@
+@'ROOM.4.33.TXT
+@<ROOM.4.32
+@>ROOM.4.34
+@T
+Level 4 - Room Thirty-three
+Is a small storeroom. Heaps of grain line the walls
+and a dead giant rat rests in the southeast corner.

@@ -1,0 +1,13 @@
+@'ROOM.1.2.TXT
+@<ROOM.1.1
+@>ROOM.1.3
+@T
+Level 1 - Room Two
+A stream runs through this natural stone chamber.
+A narrow landing adjacent to the corridor at the
+north end of the chamber allows easy access to the
+stream. The water flows in from a cut in the west
+wall and flows out under the north wall near the
+landing. In an alcove near one end of the landing
+there are many urns and pots.  The water is very
+clear and appears to be about three feet deep.

@@ -1,0 +1,9 @@
+@'ROOM.3.40.TXT
+@<ROOM.3.39
+@>ROOM.3.41
+@T
+Level 3 - Room Forty
+Is a natural cave with rough stone walls, floor
+and ceiling. The aroma of vanilla fills the air.
+The southeast corner holds a heap of fresh earth
+with the glint of gold visible.

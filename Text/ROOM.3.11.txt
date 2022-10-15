@@ -1,0 +1,8 @@
+@'ROOM.3.11.TXT
+@<ROOM.3.10
+@>ROOM.3.12
+@T
+Level 3 - Room Eleven
+Is cave with little evidence of use in the dust
+on the floor. A brilliant glint of light beckons
+from the dust of the southeast corner.

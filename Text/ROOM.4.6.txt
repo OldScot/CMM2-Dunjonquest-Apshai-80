@@ -1,0 +1,9 @@
+@'ROOM.4.6.TXT
+@<ROOM.4.5
+@>ROOM.4.7
+@T
+Level 4 - Room Six
+A path in the dust runs the length of the corridor.
+The corpse of a giant rat lies in the center of the
+corridor. The door to the west is double and made
+of thick oak.

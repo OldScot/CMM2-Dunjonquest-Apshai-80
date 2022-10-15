@@ -1,0 +1,8 @@
+@'TRAP.4.4.TXT
+@<TRAP.4.1
+@>TRAP.4.0
+@T
+Level 4 - DAGGER TRAP
+As you examine the cabinet a stiletto with
+a dark stain near the tip thrusts itself
+toward you and then retracts.

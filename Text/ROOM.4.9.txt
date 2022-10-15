@@ -1,0 +1,14 @@
+@'ROOM.4.9.TXT
+@<ROOM.4.8
+@>ROOM.4.10
+@T
+Level 4 - Room Nine
+Is a large room with masonry work everywhere but for the west
+and south walls. The latter are carved from the native
+granite. The walls are draped with the tattered remains of
+tapestnes depicting a great battle between two armies. One
+army consists of men clad in ringmail while the other
+includes a wild mix of men, ant men, and skeletons. The
+banners of the second army show a praying mantis-like figure
+in green on a field of jet black Two gold plaques hang in the
+southwest corner.

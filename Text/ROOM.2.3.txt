@@ -1,0 +1,11 @@
+@'ROOM.2.3.TXT
+@<ROOM.2.2
+@>ROOM.2.4
+@T
+Level 2 - Room Three
+The dusl on the stone floor shows signs of small
+animals, but is otherwise undisturbed. The iron
+bound door in the north wall hangs from rusty
+hinges. A simple sliding bolt secures it. The
+scraping sound can be heard through the floor
+and the fragrance of cut wood freshens the air.

@@ -1,0 +1,9 @@
+@'ROOM.4.41.TXT
+@<ROOM.4.40
+@>ROOM.4.42
+@T
+Level 4 - Room Forty-one
+The dusty floor shows many tracks of large animals
+and the air reeks of musk. The doors to the south
+and east are brass-bound wood. A moldy sack rests
+in the eastern end of the passage.

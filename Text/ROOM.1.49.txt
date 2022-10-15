@@ -1,0 +1,8 @@
+@'ROOM.1.49.TXT
+@<ROOM.1.48
+@>ROOM.1.50
+@T
+Level 1 - Room Forty-nine
+Is a narrow, high-ceilinged passage. Small slides
+of earth and stone line both walls of the tunnel.
+

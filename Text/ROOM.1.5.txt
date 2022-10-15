@@ -1,0 +1,13 @@
+@'ROOM.1.5.TXT
+@<ROOM.1.4
+@>ROOM.1.6
+@T
+Level 1 - Room Five
+Is a pond-filled room with a small landing to the
+south. The surface of the sluggish water is covered
+with moss and a number of black lilies rest
+peacefully upon the green matting. The water can be
+found to be about three feet deep and flows almost
+imperceptibly in under the west wall and out under
+the east wall. Some of the lilies can be reached
+from the landing.

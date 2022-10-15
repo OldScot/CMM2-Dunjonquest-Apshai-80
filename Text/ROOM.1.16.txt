@@ -1,0 +1,10 @@
+@'ROOM.1.16.TXT
+@<ROOM.1.15
+@>ROOM.1.17
+@T
+Level 1 - Room Sixteen
+Here you find the source of the roaring sound. A stream
+flows into the chamber from the south, across the large
+water wheel, and plummets into a pit in the floor of
+the cave. The bottom of the pit cannot be seen, but
+experiments will indicate that it is a very long drop.

@@ -1,0 +1,8 @@
+@'ROOM.3.7.TXT
+@<ROOM.3.6
+@>ROOM.3.8
+@T
+Level 3 - Room Seven
+Is a natural cave. An old boot lies near a
+mound of earth in the southwest corner.
+The dusty floor is undisturbed.

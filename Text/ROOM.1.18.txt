@@ -1,0 +1,8 @@
+@'ROOM.1.18.TXT
+@<ROOM.1.17
+@>ROOM.1.19
+@T
+Level 1 - Room Eighteen
+The passage reeks of spoiled and rotten matter. A strip
+of cloth sticks out from beneath a mound of dirt in the
+southern portion of the passageway.

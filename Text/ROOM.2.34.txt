@@ -1,0 +1,11 @@
+@'ROOM.2.34.TXT
+@<ROOM.2.33
+@>ROOM.2.35
+@T
+Level 2 - Room Thirty-four
+A table and four chairs sit in the middle of the room
+and two goblets lie on the floor nearby. Footprints
+crisscross the dusty floor. The wooden door to the
+north stands ajar. The eastern door is wooden with
+iron hinges and has a small barred window at eye level.
+A low rumbling sound is audible from the west.

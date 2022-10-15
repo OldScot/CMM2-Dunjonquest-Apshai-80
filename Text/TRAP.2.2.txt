@@ -1,0 +1,7 @@
+@'TRAP.2.2.TXT
+@<TRAP.2.1
+@>TRAP.2.3
+@T
+Level 2 - MOLD TRAP
+
+An undocumented mold trap.

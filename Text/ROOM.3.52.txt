@@ -1,0 +1,10 @@
+@'ROOM.3.52.TXT
+@<ROOM.3.51
+@>ROOM.3.53
+@T
+Level 3 - Room Fifty-two
+Is a natural cave with fantastic stalactite and
+stalagmite formations. The air reeks with a
+pungent stench. A corpse lies just inside the
+opening. A tattered sack rests against the wall
+in the northeast corner.

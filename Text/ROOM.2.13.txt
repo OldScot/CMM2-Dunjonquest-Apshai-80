@@ -1,0 +1,11 @@
+@'ROOM.2.13.TXT
+@<ROOM.2.12
+@>ROOM.2.14
+@T
+Level 2 - Room Thirteen
+All four walls are covered with a heavy layer of
+soot. Rusty tools and scrap iron litter the floor,
+several weapons in various states of repair among
+them. A large forge against the north wall shows
+no signs of recent use. The dirty floor is covered
+with a black, grimy dust.

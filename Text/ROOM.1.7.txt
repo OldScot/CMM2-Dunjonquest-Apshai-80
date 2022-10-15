@@ -1,0 +1,11 @@
+@'ROOM.1.7.TXT
+@<ROOM.1.6
+@>ROOM.1.8
+@T
+Level 1 - Room Seven
+The moss-covered water in this chamber appears to be
+three feet deep, also. A rusting suit of platemail
+can be seen on the murky bottom. White lilies rest
+on the surface of the pool. Water flows into the
+chamber from under the east wall and out under the
+west wall.

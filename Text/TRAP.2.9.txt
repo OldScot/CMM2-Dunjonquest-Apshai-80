@@ -1,0 +1,9 @@
+@'TRAP.2.9.TXT
+@<TRAP.1.2
+@>TRAP.2.6
+@T
+Level 2 - CEILING TRAP
+
+A steel blade descends from the ceiling,
+sweeps down the corridor in a long arc
+and then retracts.

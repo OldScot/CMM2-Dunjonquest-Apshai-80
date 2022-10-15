@@ -1,0 +1,9 @@
+@'TREASURE.1.3.TXT
+@<TREASURE.1.2
+@>TREASURE.1.4
+@*KEY.FLORA
+@T
+Level 1 - Treasure Three
+Any plant that glows in the dark must be
+worth something to someone so you bag some
+(see Phosphorescent Algae*). 

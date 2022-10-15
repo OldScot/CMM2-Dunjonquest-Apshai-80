@@ -1,0 +1,11 @@
+@'ROOM.2.5.TXT
+@<ROOM.2.4
+@>ROOM.2.6
+@T
+Level 2 - Room Five
+Is a corridor with stonework evident on the walls and
+floor. The ceiling is of carved rock. The wooden doors
+to the east and west hang from tarnished brass hinges.
+The scraping noise vibrates through the floor and the
+worn dusty path continues down the center of the
+corridor.

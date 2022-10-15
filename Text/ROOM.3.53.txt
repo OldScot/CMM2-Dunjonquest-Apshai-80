@@ -1,0 +1,8 @@
+@'ROOM.3.53.TXT
+@<ROOM.3.52
+@>ROOM.3.54
+@T
+Level 3 - Room Fifty-three
+Is a natural cave. An unbroken layer of dust
+covers the floor. A heap of stones fills the
+southwest corner of the room.

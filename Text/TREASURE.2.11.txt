@@ -1,0 +1,7 @@
+@'TREASURE.2.11.TXT
+@<TREASURE.2.10
+@>TREASURE.2.12
+@T
+Level 2 - Treasure Eleven
+The sack contains one hundred silver
+pieces and thirty gold pieces.

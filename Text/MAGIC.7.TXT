@@ -1,0 +1,7 @@
+@'MAGIC.7.TXT
+@T
+@<MAGIC.6
+@>MAGIC.8
+White Milky Potion
+
+This is simply a commonly known healing potion.

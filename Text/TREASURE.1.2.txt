@@ -1,0 +1,9 @@
+@'TREASURE.1.2.TXT
+@<TREASURE.1.1
+@>TREASURE.1.3
+@*KEY.FLORA
+@T
+Level 1 - Treasure Two
+The delicate fragrance of the moss prompts you to
+place a sample in your pack for later investigation
+(see Incense Moss*) 

@@ -1,0 +1,11 @@
+@'TREASURE.4.3.TXT
+@<TREASURE.4.2
+@>TREASURE.4.4
+@*KEY.MISC
+@T
+Level 4 - Treasure Three
+Inside the box you find eighty four
+platinum pieces*, fifty-five small
+diamonds* and a neatly folded cloak
+with mithril threads interwoven
+through the fabric, (see Magic Cloak*).

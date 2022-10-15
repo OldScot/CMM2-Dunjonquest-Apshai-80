@@ -1,0 +1,8 @@
+@'TRAP.2.3.TXT
+@<TRAP.2.6
+@>TRAP.2.5
+@T
+Level 2 - PIT TRAP
+
+A ten foot pit with pointy spikes in
+The bottom opens beneath your feet.

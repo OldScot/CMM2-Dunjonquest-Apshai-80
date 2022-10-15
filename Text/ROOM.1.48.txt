@@ -1,0 +1,10 @@
+@'ROOM.1.48.TXT
+@<ROOM.1.47
+@>ROOM.1.49
+@T
+Level 1 - Room Forty-eight
+The droning continues to echo from within the cavern.
+An elaborately carved sword hilt sticks out from
+under a heap of rocks. Bootprints lead up to the
+pile, but no other signs of disturbance can be seen.
+

@@ -1,0 +1,9 @@
+@'ROOM.4.52.TXT
+@<ROOM.4.51
+@>ROOM.4.53
+@T
+Level 4 - Room Fifty-two
+Is a passage with stonework on the south wall and
+the north wall, floor, and ceiling of carved rock.
+The dusty floor shows no signs of disturbance and
+the fetid air smells of ancient death.

@@ -1,0 +1,8 @@
+@'ROOM.3.30.TXT
+@<ROOM.3.29
+@>ROOM.3.31
+@T
+Level 3 - Room Thirty
+Is a small, unoccupied cave except for a
+scattering of bones and a small heap of
+offal in the northeast corner.

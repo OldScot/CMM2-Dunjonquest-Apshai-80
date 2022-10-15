@@ -1,0 +1,1684 @@
+                 How to Use This Book 
+
+This Book of Lore is designed to he used with the
+DUNJONQUEST game, The Temple of Apshai. Part of it tells you
+how to play the game, and provides you with background about
+the temple and the world in which it exists. The other part 
+provides information that you will need while you are
+playing the game.
+
+We suggest that you read through the Introduction, "How to 
+Play," and "The Adventures of Brian Hammerhand" before you
+begin play. The Introduction will introduce you to fantasy
+role playing games if you aren't already familiar with them
+If you are, the Introduction will explain the differences
+from other fantasy games you may have encountered in the
+past. "How lo Play" explains the mechanics of play in
+detail. You will probably want to read through this section
+quickly now, then refer to it during your first game. Don't
+be intimidated by its length. The length just comes from the
+number of options you have available to you. Each action you 
+take during play is simple and natural. "The Adventures of
+Brian Hammerhand" is a fun way of introducing you to our
+fantasy world. 
+
+After you have started play, you will need to refer to the
+"Chambers of the Dunjon" section. Within the game (and as
+explained in the "How to Play" section) you will find
+references to rooms within the dungeon These rooms are
+described, in more or less detail depending on the room,
+in "The Chambers of the Dunjon." Each room is numbered so
+that you can look it up quickly. The sections on monsters,
+traps, and treasures also provide a reference that you will
+need during play. Since they are short though, you may want
+to look them over before entering the dungeon so that you
+will have more of an idea of what you may find there 
+
+                    Introduction 
+
+Did you grow up in the company of the Brothers Grimm, Snow
+White, The Red Fairy Book, Flash Gordon serials, The Three
+Musketeers, the Knights of the Round Table, or any of the
+three versions of The Thief of Bagdad? Have you read The
+Lord of the Rings, The Worm Ouroboros, The Incomplete
+Enchanter, or Conan the Conqueror? Have you ever wished you
+could cross swords just for fun with Cyrano or D'Artagnan,
+or stand by their sides in the chill light of dawn, awaiting
+the arrival of the Cardinal's Guard? Ever wondered how you'd
+have done against the Gorgon, the hydra, the bane of Heorot
+Hall, or the bull that walks like a man? Would you have
+sailed with Sinbad or Captain Blood, sought passage on the
+ship of Ishtar, or drunk of the Well at World's End? Did
+Aphrodite make Paris an offer you couldn't refuse? Would you
+seek a red-hued maiden beneath the hurtling moons of
+Barsoom, or walk the glory road with "Dr. Balsamo," knowing
+it might be a oneway street? 
+
+If any or all of your answers are "yes" you're a player of
+role playing games or you ought to be, (If your answers
+are all "no," you have either stepped through the looking
+glass by mistake, or Fate knows your destiny better than you
+do.) 
+
+Role playing games (RPGs) allow you a chance to step outside
+a world grown too prosaic for magic and monsters, doomed
+cities and damsels in distress . . . and enter instead a
+universe in which only quick wits, the strength of your
+sword arm, and a strangely carved talisman around your neck
+may be the only things separating you from a pharaoh's
+treasure or the mandibles of a giant mantis. 
+
+The standard (non-computer) role playing game is not, in its
+commercial incarnation, much more than a rulebook a set of
+guidelines a person uses to create a world colored by myth
+and legend, populated by brawny heroes, skilled swordsmen,
+skulking thieves, cunning wizards, hardy Amazons, and comely
+wenches, and filled with cursed treasures, spell-forged
+blades, flying carpets, rings of power, loathsome beasts,
+dark towers, and cities that stood in the Thousand Nights
+and a Night if not The Outline of History. 
+
+Role playing games are not so much "played" as they are
+experienced. Instead of manipulating an army of chessmen
+about an abstract but visible board, or following a single
+piece around and around a well-defined track, collecting
+$200 every time you pass Go, in RPGs you venture into an
+essentially unknown world with a single piece your alter ego
+for the game, a character at home in a world of demons and
+darkness, dragons and dwarves. You see with the eyes of your 
+character a scene described by the "author" of the adventure
+- and no more.
+
+There is no board in view, no chance squares to inspect; the
+imaginary landscape exists only in the notebooks of the
+world's creator (commonly called a referee or dunjonmaster)
+and, gradually, in the imaginations of your fellow players.
+As you set off in quest of fame and fortune in company with
+those other player characters, you are both a character in
+and a reader of an epic you are helping to create. Your
+character does whatever you wish him to do, subject to his
+human (or near-human) capabilities and the vagaries of
+chance. Fight, flee, or parley; take the high road or low:
+the choice is yours. You may climb a mountain or go around
+it, but since at the top may be a rock, a roc's egg, or a
+roc, you can find challenge and conflict without fighting
+with your fellow players, who are usually (in several
+senses) in the same boat. 
+
+Role-playing games can (and often do) become, for both you
+and your character, a way of life. Your character does not
+stop existing at the end of a game session; normally, you
+use the same character again and again until he dies for a
+final time and cannot be brought back to life by even the
+sorcerous means typically available. In the meantime, he
+will have grown richer on the treasure he (you) has
+accumulated from adventure to adventure, may have purchased
+new and better equipment, won magic weapons to help him
+fight better or protective devices to keep him safe. As he
+gains experience from his adventures, he grows in power,
+strength, and skill - although the mechanics and terminology
+of this process vary greatly from one set of rules to
+another. Aside from keeping a running total of "experience
+points" from one adventure to another, you need not concern
+yourself much with this, since in DUNJONQUEST the computer
+will make the necessary adjustments to your character.
+
+Ordinary role-playing games require a group of reasonably
+experienced players, an imaginative and knowledgeable
+referee dunjonmaster willing to put in the tremendous amount
+of time necessary to construct a functioning fantasy world,
+and large chunks of playing time, since the usual game
+session lasts four to eight hours (although twenty hour
+marathons are not unheard of). DUNJONQUEST solves those
+problems by offering an already created world with enough
+detail and variety for dozens of adventures. There is only a
+single character - your character - pitted against the
+denizens of the dunjon at any one time, but you can play for
+just as long or short a period as you like, and return
+whenever you feel like it. While there are greater practical
+limits to your actions than is usually the case in a
+non-computer RPG, there are stilt a large number of options
+to choose from. 
+
+Much of your time in the dunjon will be spent exploring the
+rooms, searching for treasure, or fighting the hostile
+denizens there who are reluctant both to relinquish their
+hoards and to allow any adventurer out of their clutches.
+While all monsters in the dunjon are basically hostile,
+they come in various sizes, shapes and degrees of nastiness.
+While one creature may go down from a single blow, another
+may take half a dozen and remain standing. 
+
+If you (and your character) are new to RPG adventuring, you
+should begin with the first level of the dunjon. Lower
+levels are progressively more dangerous, inhabited by
+deadlier monsters, and their typically more enticing
+treasures should be sought only after you have become more
+familiar with the system, and your character has acquired
+experience, good equipment, and perhaps some magical aids. 
+
+Any activity in the dunjon is potentially tiring, and
+fatigue is a nearly constant consideration. A young, healthy
+adventurer who is lightly armed and not loaded down with
+treasure may trot through the dunjon at a good pace without
+tiring much. A heavier load or a loss of blood caused by
+wounds would necessarily reduce his pace - or force him to
+stop periodically to rest. If you go too slowly, some of the
+dunjon's hungrier inhabitants are more likely to come across
+you. 
+
+Combat, of course, is a frequent occurrence, and one of the
+central features of the DUNJONQUEST series is a combat
+system designed to mirror with some degree of fidelity the
+nature of sword-and-shield fighting. Hundreds of things
+might happen in a hand-to hand battle: your weapon might
+break; you might slip in a puddle of blood or trip over a
+fallen body; a shield might splinter; you might put an arrow
+right into the eye socket of an otherwise nearly
+invulnerable beast. However, systems which attempt to allow
+for huge numbers of these possibilities are tedious at best
+and, because they almost necessarily overemphasize such
+unusual occurrences, are statistically as inaccurate as
+simpler systems. Historical research, a knowledge of various
+martial arts, and practical expenence in the Society for
+Creative Anachronism (a group of medieval enthusiasts who
+get together in tournaments and similar affairs to bash each
+other about energetically with authentic imitations of the
+weaponry of the Middle Ages) have all gone into designing a
+system which, while simpler than some, is as accurate as any
+and far more authentic than most. Although you cannot, in
+DUNJONQUEST, succeed in chopping your own leg off (which a
+particularly clumsy person might in fact manage), a great
+many variables of equipment, strength, coordination, skill,
+practice, etc., are involved in determining the outcome of
+any particular battle. Fortunately, the procedure need not
+concern even a first-time player, since the computer is
+doing all the work. 
+
+It is, however, perhaps relevant to note that fighting for
+your life with a sword and shield is, naturally, even more
+strenuous than running. If you (which is to say, your
+character) are of average strength and are burdened down
+with heavy equipment - to say nothing of the sacks of
+treasure you're looking for you may soon get so tired you
+can no longer defend yourself. 
+
+                   CHARACTERS AND EQUIPMENT 
+
+As in other role-playing games, in DUNJONQUEST the
+incredibly complex factors that make up the simplest human
+being have been abstracted into a few basic characteristics,
+rated numerically from a low of 3, through an average of 10
+or 11, to a high of 18. The higher the number, the greater
+higher stronger is the attribute. A 90-lb. weakling might
+have a Strength of 6 or less, while the average football
+player would have a Strength of 14 or more. These numbers
+are typically obtained by rolling three dice; in this case,
+however, the computer generates them randomly.
+
+There are six basic attributes - three physical and three
+mental - used in DUNJONQUEST to give a unique and
+distinctive character to a dunjon adventurer.
+
+Strength, fairly obviously, is a determination of how
+physically strong your character is: how much weight (of
+treasure and equipment) he can carry, for instance. It also
+controls how heavy a weapon he can use and how much damage
+one of his blows will do to whomever (or whatever) he's
+fighting.
+
+Constitution is a measure of health and endurance - general
+physical fitness. The higher the Constitution, the farther a
+character can run before collapsing, and the more wounds he
+can sustain before dying. Since the ability to move or fight
+without becoming exhausted is also largely responsible for
+keeping an adventurer alive, this is perhaps the single most
+important attribute. 
+
+Dexterity is a matter of reflexes, coordination, and even
+eyesight. Someone with high Dexterity has an edge in weapons
+use: he's more likely to hit what he's aiming at and is
+better at keeping his shield between an attacking weapon,
+claw, or mandible and his fragile self. Someone with a
+really low Dexterity might be so clumsy he would have
+trouble hitting a locked door without a running start.
+
+Intelligence is reasonably self explanatory, although in
+DUNJONQUEST it is limited to what might be termed left brain
+intelligence: the ability to reason logically and to express
+oneself verbally In many systems (including the one on 
+which DUNJONQUEST is based), this is connected with the
+ability to work magic. In DUNJONQUEST the major function of
+Intelligence is to affect a character's ability to bargain
+with the innkeeper or to parley with monsters.
+
+Intuition, the complement of Intelligence, is a measure of
+right brain functions (real and hypothetical): spatial
+perception, getting an answer from "inadequate" data, an
+awareness of the spintual or mystical aspects of the
+unverse, ESP, and luck. Someone with a high Intuition is
+more likely to detect secret doors, traps, and unpleasant
+surprises; with an exceptionally low Intuition a character
+might be doing well to find an open doorway without a
+signpost.
+
+Ego measures mental toughness and willpower. A character
+with a strong Ego can more easily influence others (the
+innkeeper or monsters) and is more likely to fight fiercely
+despite his wounds ("when the going gets tough, the tough
+get going," as the saying goes) Someone with a weak Ego
+will not do as well when the tide of battle turns against
+him.
+
+All three physical attributes may influence your choice of
+equipment, which, in DUNJONQUEST, includes five kinds of
+bladed weapons (swords), a bow and arrows, five types of
+armor, and two different sizes of shields. Generally, the
+bigger, heavier, and more expensive an item, the more
+effective it is, although heavier equipment is more tiring
+to wear use carry. A larger sword is naturally capable of
+doing more damage than a smaller one (though not every
+time), but it takes more strength to use; a character with a
+low Strength is restricted to the lighter weapons. The most
+powerful weapon, a greatsword, requires two hands and,
+consequently, cannot be used with a shield. 
+
+Because it is not fatiguing and is, at least until a monster
+gets within chomping range, the safest form of combat,
+firing arrows at a beastie from a distance is often
+desirable. However, arrows will only hit if the monster is
+on a straight line vertically or horizontally away from you,
+and a good sword blow may very likely do more damage. Trying
+to play Robin Hood while an unpleasant critter with claws
+and teeth is chewing on your arm is also dangerous, but
+distance shooting certainly saves wear and tear on the
+armor.
+
+If you are hit bit struck, the armor you are wearing will
+protect you from some damage (the claw bite stinger has to
+penetrate a layer of leather or steel to get at the stuff
+that counts - your tender flesh); plate armor naturally
+provides much more protection than leather. Shields make it
+harder for you to be hit, although a particularly good
+strike chomp may glance off the shield onto a more
+vulnerable area or may even (if the monster is big enough
+and sufficiently hungry) take a chunk out of the shield, the
+armored sleeve, and your (character's) body. A large shield
+is, obviously, a bigger barrier to such incursions than a
+smaller one, but in the hands of a character with high
+Dexterity a small shield may be nearly as effective. 
+
+             CHARACTERS FROM OTHER GAMES 
+
+If you have played other RPGs and wish to bring one of your
+favorite characters from another game into the dunjon, you
+are welcome to do so; instead of having the innkeeper create
+a new character for you, enter the attributes of your old
+one. (Note, however, that these must be within DUNJONQUEST's
+"human" range of 3-18.) Depending on the game system you are
+used to using, you can substitute Intuition for Wisdom,
+Luck, or Power, and Ego for Charisma; while these are not
+exact correspondences, this is the easiest method of
+"translation." 
+
+If you are bringing in "high-level" characters, you should
+be aware of certain important differences between
+DUNJONQUEST and other systems. Neither attributes nor
+"hit points" are raised wholesale with increases in
+experience. A 10th level fighter is formidable but not a
+Sherman tank. Also, the limits of a microcomputer based
+system do not yet permit the use of all the different sorts
+of magic items you may have picked up in other games.
+
+If you wish to buy things from the innkeeper, you should
+note that DUNJONQUEST is on the silver standard. If you are
+used to playing on a gold standard, please alter your gold
+pieces to silver and your silver to copper. (You may reverse
+the process if you wish to take DUNJONQUEST treasure back
+into your usual game world.)
+
+The upper levels of The Temple of Apshai are appropriate for
+1st-3rd level characters, while Ihe lower levels are more
+suited to 4th -6th level characters. Being essentially an
+introductory dunjon, Apshai is not designed for still higher
+level characters, although even they may find an occasional
+challenge within.
+
+We invite you to project yourself into the labyrinth. See
+and touch the treasures, hear and smell the creatures that
+inhabit the place. Discover for yourself ihe fantasy world
+of Apshai!
+
+                      How To Play 
+
+It's easy to learn to play DUNJONQUEST. Since the rules of
+the game are actually programmed into the computer's memory,
+there is very little you need to know to play the game.
+There are, however, a few basic things you should be
+familiar with to make the best decisions during play. The
+following paragraphs describe the use of the INNKEEPER and
+DUNJONMASTER segments of the game system, the commands for
+controlling your character, gaining experience, evaluating
+treasure, and resurrecting a character who dies. The final
+section describes what to expect from the monsters
+inhabiting the dungeon. The specific monsters are described
+in more detail in the Monsters of Apshai section. You will
+find that all of this becomes very clear when you play the
+game.
+
+                     THE INNKEEPER 
+
+The INNKEEPER creates a character - your playing piece for
+the game. This simply involves answering yea or nay to a
+series of questions put to you by the INNKEEPER. 
+
+Generating a Character 
+
+As you enter the Inn, the INNKEEPER greets you and asks if
+he should create a character for you. For your first game
+you'll probably want the INNKEEPER to create one for you, so
+you would want to answer YEA to his question. In later
+forays into the dungeon you may want to enter in characters
+created in other fantasy role playing games, or you may want
+to reuse a previously generated character (see EXPERIENCE).
+You may take the same character into the dungeon as often as
+you like, or until the character dies {see ON DEATH AND
+DYING).
+
+If you have answered YEA, the INNKEEPER generates a
+character randomly and displays its attributes on the
+screen. For example:
+    INTELLIGENCE   10 
+    INTUITION       7 
+    EGO             9 
+    STRENGTH       14 
+    CONSTITUTION   11 
+    DEXTERITY       9 
+    THOU HAST 125 PIECES OF SILVER 
+    CHARACTER NAME? 
+
+Once you have decided on a name for yourself, all of the
+above information should be written down so that you can
+reuse it at a later date.
+
+Silver pieces are your spending money for the supplies you
+need in the dungeon. The INNKEEPER will keep track for you
+of how many silver pieces you spend until you enter the
+dungeon. At that point, the INNKEEPER forgets, so you should
+make a note of how many you have left after you have
+purchased your equipment.
+
+Purchasing Equipment 
+
+The INNKEEPER will query you for purchases of swords,
+shields, armor, a bow, arrows, and healing salves. For each
+of the first three categories, several items are listed in
+the order of their effectiveness, with the first item being
+the least effective. For example, under armor the INNKEEPER
+displays the following list: 
+
+    TYPE          WEIGHT OFFERED PRICE
+    LEATHER          9         30 
+    RING MAIL       22        100 
+    CHAIN MAIL      31        150 
+    PARTIAL PLATE   47        250 
+    FULL PLATE      63       1000 
+
+Leather armor is the least effective type and full plate is
+the best. It is also true that the more effective types of
+weapons and armor weigh more, which has an effect on the
+amount of fatigue you expend (see FATIGUE). 
+
+Bargaining for Your Equipment 
+
+Appearing next to each item for sale is an "offered price."
+You can bargain with the INNKEEPER to buy an item for less
+by entering a number less than the suggested price. You can,
+however, only purchase those items listed. Any other items,
+such as magic weapons, magic armor, and, alas, more money,
+have to be found in the dungeon.
+
+Levels of Play 
+
+There are two ways in which you can control the level of
+difficulty of the game. The first is by choosing the dungeon
+level (1 through 4). These are arranged by relative
+difficulty with the first level being the least difficult.
+
+You may also choose from among three monster speeds: slow,
+medium or fast. This speed controls the amount of time you
+have to react to an encounter with a monster. Depending on
+the speed you choose, a monster will allow you a certain
+fixed amount of time to choose your course of action before
+it attacks you. However, once you execute a command, the
+monster will immediately take its move whether or not you've
+used up your time allocation for the turn. Now get ready to
+tackle the monsters. 
+
+THE DUNJONMASTER 
+
+Entering and Exiting the Dungeon 
+
+When you first enter the dungeon, you will be just inside
+the door of the first room on that level. You will always
+enter a level of the dungeon at the same place. From that
+point on, you are free to roam about on the level as you
+please. To leave the dungeon or to move to a different
+level, you must first exit the dungeon, then re-enter at the
+entrance to the next level. Each of the four levels of the
+dungeon are described m detail in the Chambers of the Dunjon
+section.
+
+The Display 
+
+The DUNJONMASTER both draws a map of a portion of the
+dungeon and displays your status, including the number of
+the room you are currently in, your physical condition, and
+how much weight you are currently carrying. Part of the
+display is reserved for reporting messages that are of
+immediate importance to you (see Figure 1). There are a
+number of possible messages, and more than one of these may
+appear at the same time. These messages are self-explanatory
+during play, but a few are included in Figure 1 as an
+example. The circled numbers in the figure correspond to the
+descriptions under the sample display.
+
+
+Figure 1.                 (1) ROOM NO. 52 
+Sample Display            (2) WOUNDS: 100% 
+                          (3) FATIGUE: 100% 
+                          (4) WGT: 42 LBS 
+                          (5) MONSTER SLAIN! 
+                          (6) CRUNCH! 
+                              SHIELD HIT! 
+                          (7) ARROWS: 23 
+                              MAG AR: 3 
+                          (8) ANT MAN 
+
+                          (9) TOTAL SLAIN: 
+                              21 
+
+KEY DESCRIPTION 
+
+(1) This number is the number of the room you are currently
+    in. Passageways are also assigned room numbers.
+
+(2) Shows that, at the moment, you are not wounded. See ON
+    DEATH AND DYING. 
+  
+(3) Shows that you have all of your endurance available. See
+    FATIGUE.
+  
+(4) Shows how much weight you are carrying.
+
+(5) Lines (5), (6), and (8) only appear when appropriate.
+    Line (5) shows that you killed the monster you last
+  fought with.
+
+(6) These two messages show how you fared during the last
+    round of combat. The first line shows that you hit the
+    monster while the second shows that he hit your shield.
+  Again the specific messages vary with the situation.
+  Unless you are in combat, there will be no message here.
+
+(7) Shows how many normal and magic arrows you have left
+    (see Attacking with Bow).
+
+(8) Shows the name of the monster currently in contact with
+    you. The name shown depends on the monster type present.
+
+(9) Shows the total number of monsters you have slain in
+    this foray.
+
+COMMANDS 
+
+Altogether there are 18 commands available to you for
+maneuvering your character through the dungeon. These
+commands are discussed under three major headings: movement,
+special, and attack commands. Tables 1 through 3 summarize
+these commands and their meanings, and each is described in
+the following paragraphs. Note that none of the commands in
+Tables 1 through 3 should be followed by a carriage return.
+Type only the appropriate key.
+
+Table 1. Movement Commands 
+
+  What You Enter     Meaning 
+  *0 to 9            Move forward to 9 feet
+  R                  Turn right 
+  L                  Turn left 
+  V                  Turn around (volte face) 
+
+Table 2. Special Commands 
+
+  What You Enter     Meaning 
+  O                  Open door 
+  E                  Examine wall for secret door
+  S                  Search for traps
+  G                  Grab treasure
+  D                  Drop treasure - followed by message
+                     DROP SOME - enter the two digit number
+                     of the treasure you want to drop
+  Q                  Hearken (query) 
+  !                  Speak with monster
+  H                  Apply one healing salve 
+  Y                  Drink a healing potion 
+
+Table 3. Attack Commands 
+
+  What You Enter     Meaning 
+  A                  Normal attack 
+  T                  Thrust 
+  P                  Parry 
+  F                  Fire a normal arrow 
+  M                  Fire a magic arrow 
+
+Movement 
+
+There are four commands that allow you to move from one spot
+to another (see Table 1). During a turn you may move up to
+nine feet. Moving forward always takes one full turn,
+regardless of how jar you move. The distance just indicates
+the speed you move at. You may also turn to the right or
+left, or turn around. Since turning does not take any time,
+you may combine it with your forward movement for one turn.
+
+To move out of the space you are in, you must move forward.
+Therefore, for example, to take two steps backward, you must
+first turn around, then move two feel forward. On Ihe next
+turn you may turn about again.
+
+Note that to move, you must enter a whole number from to 9.
+You cannot use fractions or decimals. Do not enter a " + "
+in front of the number and do not type 09. Type only the
+number itself: 9.
+
+It is also important to remember thai (although the actual
+speed varies) moving at maximum speed makes you tired (see
+FATIGUE). You should not need to run for more than a few
+turns at a time since a monster will never follow you out of
+a room. (Of course, if there's a monster in ihe next room
+. . .) 
+
+Special Commands 
+
+The nine special commands vary from healing yourself to
+attempting to talk to a monster. Each of these commands is
+summarized in Table 2 and described in the following
+paragraphs.
+
+Opening Doors. One thing that you'll be doing a lot in the
+dungeon is opening doors. Nearly every room has at least one
+(see also Secret Doors) To go through it, you must first
+open it. Go up to within one fool of the door and face it.
+You can then open it by typing the letter O (no carriage
+return needed). The door will then open (showing the next
+room if there is space on the display to do so) and you can
+move through it.
+
+Once you open a door, it will stay open until you "reset"
+that level. That is, if you go on to a different level of
+the dungeon and then return to the current level, or if you
+turn off the computer for a while, thai level will reset,
+and all doors will reclose until the next time you open
+them. You can return to the Inn without resetting the level.
+
+Secret Doors. Secret doors work similarly to regular doors,
+except since they are hidden from view, you must first
+search for them using the E command (see Table 2 ) You must
+be facing the wall you want to examine, but you do not have
+to be near the wall. For example, you could systematically
+search for secret doors by turning to face each wall in turn
+while standing in the middle of a room.
+
+Whenever you search for and find a secret door, the message:
+           A SECRET DOOR!
+flashes on the screen and the location becomes visible. You
+may then position yourself and open the door normally using
+the O command.
+
+There is a chance that you will miss a secret door, so you
+may want to double check just to be sure. Don't be too
+surprised either if you find that after going through a
+secret door, you have trouble finding it again. Perhaps a
+passing monster has come by and closed it.
+
+Traps. A trap may come in any one of a number of forms
+ranging from darts that spring out from a treasure chest to
+a pit in the floor of the room. They can be anywhere in a
+room, but a room does not have to be trapped. You can search
+for a trap using the S command described in Table 2. As with
+secret doors, it is possible to miss a trap, but again, you
+can search all you want. When you search for and find a
+trap, its location becomes obvious and you can usually avoid
+it by going around it or leaping over it. To leap over a
+trap, you only need to avoid stopping too near it. For
+example, if you know a trap is three feet directly in front
+of you, you can avoid it by moving six or more feet forward.
+
+Finding Treasure. All treasures in the dungeon are described
+in the Treasures of Apshat section. To find out what kind of
+treasure is in a particular room, you must first move to
+within one foot and grab it, (Before doing so, it may be
+wise to search for traps.) This is done by typing the letter
+G. The DUNJONMASTER then displays the number of that
+treasure which can be referenced to the Treasures of Apshai
+section. The DUNJONMASTER keeps track of all of your
+treasure for you and lists each at the end of your
+adventure, back at the Inn (refer to EVALUATING TREASURE).
+
+Note that if you find a sword in the dungeon, you must leave
+behind your old sword before you can use the new one. Swords
+are jealous of their possessors attentions! You always have
+the option of ignoring the new sword and keeping your old
+one.
+
+Magical Treasures. Some of the treasures in the dungeon are
+magical in nature. These items have special properties,
+which are sometimes lost when the item is removed from the
+dungeon. For example, you might be fortunate enough to find
+a ring that helps shield you from attack. But if you should
+take that ring out of the dungeon and then return with it
+later (i.e. you turn off the computer), that ring would no
+longer help you because its magical powers would be gone. On
+the other hand, a sword would most likely retain its magical
+properties after you leave the dungeon.
+
+Dropping Treasure. If you should decide after picking up a
+treasure that you don't want it, you can put it down again
+at any time by typing the letter D and then entering the
+number of the treasure you want to drop (see Table 2). When
+dropping treasure, the number must contain two digits. For
+example, to drop treasure number 1, you would enter: 01. To
+drop treasure number 19, you would type: 19. Note that you
+cannot drop treasures that you do not have.
+
+Hearken. All characters visiting the dungeon have special
+listening powers. By typing the letter Q (see Table 2) you
+can sense the presence of another creature in the next room,
+even on the other side of a wall or closed door. This
+command only works if you are facing the wall or door you
+want to listen at. It is similar to the find traps and
+secret door commands in that there is a percentage chance
+you will not hear anything, even if there really is a
+monster lurking in wait for you. When this command is used
+the DUNJONMASTER tells you thai you found NOTHING or the
+name of the lurking creature.
+
+Speaking with Monsters, Speaking with monsters is another
+ability you have as a traveller in the dungeon. The command
+(see Table 2 again) gives you a chance to avoid fighting
+with a monster. If the monster is in a good mood when you
+speak to it, it will tell you to pass by and leave any
+treasure it is guarding untouched. However, if you then
+attack it or disturb the treasure, the monster will pursue
+you. But beware! Some monsters hate all adventurers!
+
+Healing. There are two items you may use to heal your
+wounds: salves and potions. Either of these may be taken at
+any time, including during combat. However, the monster
+would then get a free swing. You can rest while you are
+healing yourself.
+
+Salves. Each salve, purchasable from the INNKEEPER, will
+heal some of the wounds you have taken. This percentage will
+vary from time to time. The DUNJONMASTER keeps track of how
+many you have, and, upon applying one (by typing the letter
+H) automatically adjusts the count remaining. You can see
+the change on the WOUNDS portion of the display. If you
+attempt to use more salves than you have available, the
+DUNJONMASTER will display the message:
+
+                     NONE LEFT 
+
+Potions. These valuable items work the same way as salves,
+except potions are more powerful and heal a larger
+percentage of your wounds. Potions must be found as treasure
+and cannot be purchased from the INNKEEPER. To execute this
+command, type the letter Y.
+
+Attack Commands 
+
+There are five types of attacks to choose from during a
+given turn: normal attack, thrust, parry, fire a normal
+arrow, and fire a magic arrow (see Table 3). As always, none
+of these commands should be followed with a carriage return.
+
+Attacking with Sword. To attack with sword, you do not have
+to be facing the monster, but you do have to be close. If
+you try to attack when you are not within range, the
+DUNJONMASTER will display the message: 
+
+                   TOO EAR TO HIT 
+
+and you will instead rest while the monster charges you.
+
+A normal attack is a simple swing of the sword, whereas a
+thrust is an all out attack. A thrust increases your chances
+to hit and damage the monster, but it also makes it easier
+for the monster to hit you. A thrust also costs
+substantially more in fatigue. For a normal attack, type the
+letter A; for a thrust, type T.
+
+A parry helps shield you against the monster's attack while
+conserving fatigue, but it makes it more difficult for you
+to hit the monster. Parrying allows you to rest without
+letting your guard down, A parry is executed using the P
+command.
+
+Attacking with Bow. When attacking with a bow, you must be
+facing the monster (and the further away the better, since
+he cannot hurt you unless he is within the melee distance).
+If you try to fire an arrow while the monster is within
+striking range of you, it becomes much easier for the
+monster to hit you (you cannot fend off his attack).
+
+Both normal and magic arrows are good long range weapons:
+however, a magic arrow is more likely to hit its target and
+it does more damage. Magic arrows can only be found in the
+dungeon, since no one who has them is likely to sell them.
+Firing either type of arrow generally allows you to regain
+spent fatigue. To fire a normal arrow, type the letter F. To
+fire a magic arrow (assuming you have one) type the letter
+M.
+
+FATIGUE 
+
+Expending Fatigue 
+
+Your fatigue rating simply determines how much energy you
+have at any given time. Exceptional exertion results in
+spent fatigue, but what constitutes exceptional exertion and
+how much fatigue you expend depends on your character.
+Walking normally and firing arrows generally allow you to
+regain fatigue. Activities such as running, fighting, and
+carrying heavy loads all cost varying amounts of energy.
+
+The amount of energy you expend for any activity is also
+affected by the wounds you have taken. The more wounded you
+are, the more it costs you in fatigue to perform an
+activity.
+
+If you use up more fatigue than you have (if a negative
+number is displayed for FATIGUE), you fall on the floor and
+pant. You will not be allowed to attack or move until you
+have recovered (that is, until a positive number is
+displayed). 
+
+The DUNJONMASTER keeps track of and displays for you the
+amount of energy you have left. Therefore, if the display
+reads:
+
+                  FATIGUE: 100%
+
+you have all of your energy available.
+
+Regaining Spent Fatigue 
+
+While you cannot accumulate more energy than you started
+with, you can regain previously spent energy in a variety of
+ways. The fastest way is to stop your movement altogether
+(although this may be dangerous). You can also regain it
+while firing an arrow or simply walking more slowly.
+Executing any of the special commands also allows you to
+gain back fatigue. Each time you rest, however, you have a
+chance of meeting a wandering monster (see MONSTERS).
+
+EXPERIENCE 
+
+Each time that you successfully venture into the dungeon you
+acquire experience points, which basically means you become
+a better and more powerful adventurer. This number is
+determined for you by the DUNJONMASTER and is based on what
+you accomplish while in the dungeon. Essentially, as you
+gain experience, you become able to handle more difficult
+situations.
+
+More specifically, you will notice improvements in your
+character. These improvements come in "jumps" and may not be
+immediately obvious. One improvement is that it becomes
+easier for you to hit a monster and more difficult for the
+monsler to hit you.
+
+Once the program is loaded, it keeps track of your
+experience points on a cumulative basis. That is, if you
+return to the Inn to purchase more supplies, the
+DUNJONMASTER remembers how many experience points you earned
+on that adventure and adds it to the experience you get on
+the next adventure. The DUNJONMASTER will continue to do
+this until you turn off the computer or until you generate a
+new character. At that point it forgets all of your
+experience. If you intend to keep a character for use in
+future sessions, you should make a note of the final number
+of experience points before you turn off the computer. This
+number can be re-entered at the beginning of a new session
+and the DUNJONMASTER will add any new experience to that
+number.
+
+EVALUATING TREASURE 
+
+Once you are safely back at ihe Inn, the INNKEEPER lists all
+of the treasure you found during the adventure. From there
+you must determine the value of each item using the treasure
+key in the Treasures of Apshai section and add them together
+along with any money you had previously. If you intend to
+keep your character for use in future sessions, you should
+make a note of the total so that you can re-enter it at a
+later time. Likewise, you should make a record of all of
+your possessions, including the number of normal and magic
+arrows you have left, the type of armor and weapons you
+have, etc. Also note any changes in your attributes, since
+these are permanent and must carry over from adventure to
+adventure.
+
+ON DEATH AND DYING 
+
+Wounds 
+
+Any time a monster attacks you, there is a chance (depending
+on the type of armor you are wearing) that it will penetrate
+your armor and wound you. The DUNJONMASTER keeps track of
+and displays how much damage you have taken on a percentage
+basis. The number displayed next to WOUNDS is always the
+percentage that you have left. For example, if the display
+reads: 
+
+                      WOUNDS: 90% 
+
+you are still relatively healthy because only 10% of you has
+been wounded.
+
+You may heal yourself at any time with either a salve or a
+potion (see Healing). You can continue to function normally
+until you reach 0% or less (except that your fatigue
+expenditure increases). At that point you are dead. However,
+there is a chance you can be "raised from the dead." The
+following paragraphs explain this phenomenon in more detail.
+
+Getting Yourself Resurrected 
+
+If after all that hard work you should find yourself dead,
+don't panic. All may not yet be lost. After all, you are not
+the only adventurer in the dungeon and some kind soul,
+having stumbled across your body lying on the floor, may
+drag you out to safety and see to it that you are
+resurrected. Of course, for having gone to all the trouble,
+he would most likely want something in return as a thank
+you.
+
+If you should die, you may simply be eaten by a wandering
+monster. This is the worst case. You may also be found by
+one of three characters: a dwarf, a wizard, or a cleric, all
+of whom will ask for some type of payment. The DUNJONMASTER
+tells you immediately which of the four cases has occurred.
+
+Monsters. If you are found by a monster, your character and
+all its possessions will be eaten. Fresh adventurer is
+considered to be a delicacy by the monsters inhabiting the
+dungeon.
+
+The Dwarf. The second worst case is to be found by Olias the
+Dwarf. While he will not eat you, he will take all your
+money, including any gems and jewels, and any magical items
+you might have. This includes magic swords, armor, and
+arrows. You will be alive, but you will be very poor.
+
+The Magic-User. Lowenthal the wizard is only slightly easier
+to please than Olias. In return for your life, he will take
+any special magical items you might have, leaving you with
+your cash, gems, jewels, weapons, and armor.
+
+The Cleric. The fortunate ones will be found by Benedic the
+wandering priest. This kind soul (if he can find his way out
+of the dungeon), after resurrecting you will simply ask that
+you make a donation to his sect after you get back to the
+Inn.
+
+MONSTERS 
+
+Although a complete description of the types of monsters in
+the dungeon is contained in the Monsters of Apshai section,
+it is helpful to know that monsters can be either fixed or
+wandering. With a fixed monster, each time you read in a
+level of the dungeon, that monster (and all other items)
+reappears exactly where it was previously. These monsters
+are normally there to guard a particular treasure. A
+wandering monster is generated randomly by the DUNJONMASTER
+and may appear anywhere at any time on the appropriate
+level. You do not have to fear running into the most
+powerful monsters on the first level of the dungeon. Some
+discretion is used in generating them and only first level
+monsters are generated for the first level of the dungeon.
+Don't be surprised though, if you find what first appears to
+be the same monster on more than one level and then discover
+it to be tougher than you remembered. 
+
+Neither fixed nor wandering monsters ever follow you out of
+a room, but unless you kill a monster, it will be waiting
+for you when you go back into that room.
+
+                   The Adventures 
+                         of 
+                  Brian Hammerhand 
+
+PROLOGUE 
+
+Landfall at last! 
+
+Don't get me wrong, now, chum. Shipboard life can be
+enjoyable. You meet a lot of interesting people thieves,
+exiles, fugitives, and the like - most of them as willing as
+I to gamble a week's wages on a cast of the bones. And so
+far as I can tell, being swallowed by a sea serpent can't be
+much different from being chewed up by any of the foul
+creatures on Geb's good earth. It's just that I'm infantry
+born and bred, and you can't ground your spear against a
+charge at sea. Besides, this leather armor may float all
+right, but it wouldn't stop a wasp sting, much less a
+pirate's arrow.
+
+Staggering down the gangway my legs yet unaccustomed to
+treading a stable surface my ears were assaulted by raucous
+mixture of music and shouting carried downwind from the only
+tavern in evidence. Our port of call was a poor excuse for a
+hamlet, it appeared, but at least it didn't pitch and yaw
+every time the gods of the sea got playful.
+
+When I moved closer. 1 saw an inscription on a worm eaten
+piece of planking hanging above the open doorway: The
+Wallowing Whale Tavern. From within the shabby, red clay
+building at odd intervals bellows of "Ale! Ale!" rose above
+the din. With the luck of the dice running against me
+lately, I was just about down to my last copper. Still, I
+was thirsty, and my purse would get no fatter without help.
+Shrugging, I went in to see what passed for a drink in this
+forgotten armpit of the continent.
+
+As I expected, the place was no better inside than out.
+Half-barrels served as tables, and the seating ranged from
+milking stools to shipping crates to the red clay floor
+itself. Nestling into the red powder at a table occupied by
+an unconscious seaman, I peered through the gloom and smoke
+for the serving wench. I spied her slowly wending her way
+through the press, and staggering under the weight of two
+over-full serving trays. Comely once, I guessed, she now
+looked as run down as the tavern itself.
+
+As the wench neared my table. 1 cried. "Ale!" My voice, loud
+enough to be heard, was echoed by a moan from my unconscious
+companion, flipping one of my last copper pieces down her
+bodice, I reached for the only clay mug with no flies on its
+rim.
+
+I was intercepted in mid-reach by a massively thewed arm
+thrust toward the tray by a giant of a man sitting at a
+nearby table. In his haste, the fellow succeeded only in
+upsetting the tray, showering us both with ale. Cursing the
+clumsiness of the serving girl, he leaped to his feet and
+struck her. Bone yielded with a snap, and her arm hung limp.
+A drop of blood welled where her teeth held her lip, but she
+made no outcry.
+
+"Geb's beard," I swore grimly, as he still berated her.
+"Wouldst care to try that with one less frail, chum?"
+
+As all eyes turned to me. I studied my opponent briefly ere
+he lunged. I saw no promise in assaulting either the huge
+hairy chest or the treestump hairy legs, so I ducked under
+his outstretched hairy arms and smashed my gauntletted fist
+into the side of his snarling, hairy face as he went past.
+His momentum carried him over my table and head first into
+the wall. The old building shook. He bounced halfway back to
+his feet before sliding slowly down to rest cheek to cheek
+with the drunken sailor, who greeted him with a belch.
+
+"Anyone else?" I asked the crowd. There was a deal of
+talking, but none stepped forth. "Not against a man with a
+hammer for a hand," one muttered. 
+
+I bent down and tugged loose a heavy purse from the hairy
+man's belt. Turning, I flipped it toward the serving maid's
+good hand. "Take a holiday," I suggested, as she caught it.
+She nodded, still without speaking, and I took myself off
+before the fellow's friends - if he had any - could gather
+their courage.
+
+I was walking toward the docks, half regretting giving away
+what felt like a goodly sum when my own purse was near
+empty, when I heard footsteps behind. In a heartbeat I was
+flattened out behind a building, my dagger in my hand. The
+wisp of a lad who turned the corner jumped when he saw me
+waiting. He looked as harmless as a heifer, but I growled,
+"Well?"
+
+Eying the scowl on my face and my naked blade, he suddenly
+burst out, "Yawannagitrich?" 
+
+"Geb's beard," I muttered, sheathing my dagger. "Who
+doesn't?"
+
+As we strode off down a dirt lane, he elaborated on his
+proposition, I was silent until we stood before the gate to
+a well-kept yard fronting a small, wooden shack. "We're
+there." said the lad .
+
+After a time. 1 shrugged and give him my last two copper
+pieces, It was little enough, and if the tale be true, I
+wouldn't miss it. If not, I'd take it out of his hide, if
+need be and he knew it. I left him then and strode up to the
+house of Merlis, a mage of little account (so said the boy)
+and what passed for the wise man of the village now that
+priests of Geb stayed away. It was Merlis who told me the
+rest....
+
+THE LEGEND OF THE RUINS 
+OF APSHAI 
+
+For more generations than any man now living could count,
+this entire corner of the continent was devoted to the
+worship of Geb, god of the earth. Into the area came
+worshippers of Apshai, the insect god, who claimed knowledge
+far in advance of that possessed by the followers of Geb.
+However, it was widely known that this knowledge came from
+dark and sorcerous practices, and the Gebite priests,
+fearing the results of these grisly rites, led their people
+to drive the outlanders from the village.
+
+Fleeing south, the Apshatans were shortly halted by a vast,
+uncrossable swamp. Unable to return to the Gebite village,
+and unwilling to essay the perils of the swamp ahead, the
+high priest of Apshai prayed to his patron for guidance.
+
+Scarcely had he begun his devotions when he was interrupted
+by the intrusion of a young girl who said that her brother
+had fallen into a pit and did not answer her calls. Although
+the priest was wrapped in his own concerns, he did direct
+some of the others to search for the youth, but they
+returned at nightfall, defeated, convinced the pit must be
+bottomless. Nor had Apshai seemed to respond to the priest's
+prayers.
+
+Then, shortly after dawn the following morning, the boy
+wandered into the pilgrim camp, cut and contused, but
+without serious injury. Not only had the lad returned
+safely, but Apshai seemed to have used him to give the
+solution to his people's plight.
+
+The pit may indeed have been bottomless, but the boy had
+landed on a shelf not too far below the surface,
+unconscious. He had come to after nightfall and had wandered
+in the dark through a series of caves, eventually coming
+upon a larger cavern with a salt water beach. There he had
+collapsed to the sand, too weary to continue. He awakened to
+a light touch only to see a six foot long ant towering over
+him. Despite his beliefs, he fled this manifestation into
+the water.
+
+As his swimming brought him nearer to the furthest wall of
+the cavern, he noticed the water had assumed a greener hue.
+Beneath him a glow spread into the murky depths within the
+cavern. He dove and swam into the brightness.
+
+When he surfaced, drawing in great lungsful of fresh sea
+air, he rejoiced in the restoring warmth of the sun. As he
+climbed the rocky face of the overlooking coastal bluff, he
+noticed that the water was receding. The clump of red
+seaweed which had caressed him as he swam out of the cavern
+was now hanging limp from the cliff face.
+
+The boy led his people back to the spot. Behind the drape of
+seaweed, they discovered a narrow cleft in the rock. They
+had found their new home.
+
+In the caves beneath the coastal bluff, the Apshaians set to
+planting the strange crops they knew would flourish in the
+underground environment. They hewed out new passages and
+reaped the harvest of gems and gold they found in their new
+cavern kingdom. They prospered, and their numbers swelled.
+The power of Apshai grew in the land. Finally, they were
+even accepted by the Gebite priests, who were won over by
+the tribute of gems and incense sent to them every year.
+
+The Gebite people, however, grew sorely fretful. While none
+knew the details of the dread Apshai rites, dark rumors
+abounded, and every year young people disappeared. The
+priests of Geb, well satisfied with their new wealth,
+ignored their pleas, for nothing could be proven. By
+themselves, the people prayed for three years while the
+temple of Apshai was constructed within the cavern by the
+sea. They prayed for two years more while a plague of
+insects from the swamp beset them. They prayed for five
+years more, while the priests of Geb continued to burn 
+Apshaian incense moss during the Gebite rites, even though
+crops failed and animals were barren.
+
+Finally, the people's prayers were answered.
+
+One morning, as the priests began their regular devotions,
+the earth trembled beneath them, and a deafening roar was
+heard throughout the land. Stumbling out of their tottering
+temple, the shaken priests were greeted by the tumbled ruins
+of what had once been their town. Following the cnes of the
+villagers, they hurried to the shore and ran up the beach
+toward the coastal bluff. When they reached the entrance in
+the cliff face, a thin streamer of dust was filtering from
+within. They peered in and, where the mighty temple of
+Apshai had stood against the far wall, they now saw only a
+vast slide of fresh earth.
+
+Over the years, the village was rebuilt, and the Gebite
+priests renewed their power over the common folk. For many
+years the caverns remained seldom visited and always
+undisturbed. Generations passed, and memories faded into
+legend.
+
+Then, during the reign of high priest Nemdal Geb, a movement
+was begun to excavate the old temple in search of the
+legendary gems and gold of the Apshaians. A noted engineer
+was hired, and first the ancient temple and then the ancient
+passages, one by one, were cleared. The underground gardens,
+with their strange, sunless growths, were rediscovered, as
+were the shops and, finally, the mines of the Apshaians.
+Nemdal Geb decided to continue the excavation in hopes of
+recovenng the lost knowledge of the Apshaians. This proved
+to be an ill fated decision indeed.
+
+Shortly after the fourth passage was cleared, work parties
+began to disappear. Soon no one would enter the fourth
+passage, and eventually the other passages and the temple
+cavern itself became unsafe. Commerce dwindled, and the
+population waned. The town was again facing disaster. In
+response to the people's out cries, Nemdal Geb led the other
+priests of Geb and the strongest warriors of the town in a
+quest to end forever the curse of Apshai, They entered the
+fourth passage, and none returned.
+
+EPILOGUE 
+
+"And now, my friend," Merlis continued, "only the bravest or
+most foolhardy dare enter the cavern under the coastal bluff
+when the tide is at its ebb, and few of them return. Those
+who do grow in legend to proportions men of mere flesh and
+blood could never hope to realize. My fnend, this village is
+dying, and its people with it. Soon the last will fall to
+the curse of Apshai, and only the doers of great deeds
+shall be remembered." He turned his gaze to me, "Dare you
+join them in search of the lost wealth still, if the legends
+speak true, hidden there?"
+
+"Geb's beard," I murmured. . . .
+
+                     The Monsters
+                       of Apshai 
+
+Antmen - These creatures look like six foot long ants
+walking upright on their hindmost legs with the other four
+legs free for manipulation. There are significant
+differences between the classes of antmen but unfortunately
+these differences are only discernible to other antmen.
+They attack with their mandibles and sometimes with their
+forelegs as well.
+
+Carrion Beasts - These creatures resemble squids equipped
+with spindly legs, They generally have six tentacles with
+which they maul and crush their prey. Their bodies are
+covered with a thin but hard carapace and they are able to
+travel along walls and ceilings. 
+
+Centipedes - This represents a nest of the little buggers
+such as might take up residence under a chest or in some
+remote crevice. Their bites are mildly poisonous.
+
+Ghouls - are misshapen creatures with longer than normal
+arms, wicked claws, and a mouthful of razor sharp fangs
+which they ably employ to crack the bones of their prey.
+They have tough hide and stand about seven feet tall. They
+are said to eat the soul of their prey as it exits the dying
+body.
+
+Giant Amoeba - This creature is a mass of gray protoplasm
+which has a strong solvent effect on living flesh. They
+range from six to ten feet in diameter.
+
+Giant Ants - These huge insects are four to six feet long
+and travel quickly on their six legs. They attack their prey
+with their large mandibles. They are entirely encased in a
+hard shell.
+
+Giant Bombadier Beetles - are about three feet in diameter
+and fly around on a pair of glossy wings. They can generate
+a good speed on their little wings and attack their prey in
+bowling rushes.
+
+Giant Fire Beetles - These melon sized creatures are copper
+red beetles which are capable of generating tremendous heat
+within their bodies with which they attack their prey. They
+have a thin shell but move about very quickly on the wing.
+
+Giant Leeches - A disgusting rubbery grey, these are two or
+three feet long. They travel about on a trail of slime and
+drain their prey of body fluids with their sucker mouths.
+
+Giant Mosquilos - have a three or four foot wingspan and
+maneuver their slender bodies about rapidly through the air.
+They insert their proboscises into their prey and drain the
+body fluids.
+
+Giant Rats - are four feet tall at the shoulder and have
+nasty teeth. They are dirty creatures and are recognizable
+by their musky smell.
+
+Giant Spiders - look like a tarantula-black widow hybrid
+with a hairy black body and black and red banded legs. They
+are reputed to be quite poisonous as one might expect from
+the four or five foot size.
+
+Giant Termites - are two to three feet long and move about
+on flimsy wings. They have soft shells and are brown in
+color.
+
+Giant Ticks - are foot long ticks and are dark brown or
+black in color. They are hard shelled and leap about on
+their strong hindmost legs. They drain body fluids with
+their proboscises.
+
+Giant Wasps - are three or four feet in length and their
+thorax is tipped by a paralyzing stinger. They are very
+mobile and will attempt to sting their prey into submission
+before burying their prize for future consumption.
+
+Jellies - are formless masses of translucent jelly about
+three feet high and six or eight feel across, their touch
+dissolves flesh. They have no socially redeeming value.
+
+Skeletal Bats - These feral creatures are bare skeletons of
+bats with red ember-like eyes. They have wingspans of two or
+three feet and will attempt to bite their prey with their
+sharp fangs. 
+
+Skeietons - are the animated skeletons of men which now
+stalk the underground passages in search of victims. They
+are said to devour the soul of their victim as it exits the
+dying body.
+
+Spiders - This represents a whole nest of small spiders.
+These little killers are coal black and have white eyes.
+They inhabit small dark spaces such as the insides of
+chests.
+
+Swamp Rats are two to three feet long and are famed for
+their ravenous appetites. They will fearlessly attack
+anything that moves or has a strong smell and they eat
+anything they can swallow. They come in your choice of
+decorator colors.
+
+Vampire Bats - These creatures inhabit the darker
+recesses of the dungeon. They are generally black and have
+wingspans around three feet. They bite their victims with
+their razor sharp fangs and drink the blood which flows from
+the wound.
+
+Wraiths - These ghostly creatures appear as skeletal figures
+garbed in hooded frocks. Their eyes are fiery points of
+light within their cowls. They move effortlessly about
+leaving no trace of their passing and are capable of passing
+through solid matter at will. Many have died under the chill
+touch of their bony hands.
+
+Zombies - These creatures are animated corpses which stalk
+the dark passages in search of prey. They sometimes utilize
+weapons garnered from their prior victims. They too are said
+to devour the souls of their victims as these exit the dying
+bodies.
+
+                  The Traps of Apshai 
+
+LEVEL ONE 
+
+LILY TRAP - The lilies give off a cloud of fine powder which
+causes severe swelling in your throat.
+
+NEEDLE TRAP - A needle springs from the lock in the
+immediate vicinity of your hand.
+
+PIT TRAP - A len foot pit opens beneath your feet.
+
+SPEAR TRAP - A spear thrusts out of the cabinet as it is
+opened and then retracts.
+
+MOLD TRAP - The yellow mold on the floor gives off a cloud
+of spores as it is stepped on. These spores cause a severe
+coughing fit.
+
+LEVEL TWO 
+
+CEILING TRAP - A steel blade descends from the ceiling,
+sweeps down the corridor in a long arc and then retracts.
+
+NEEDLE TRAP - A needle springs from the lock very near to
+your hand.
+
+PIT TRAP - A ten foot pit with pointy spikes in the bottom
+opens beneath your feet.
+
+SPEAR TRAP - A spear thrusts out of the wall and then
+retracts.
+
+X-BOW TRAP - A crossbow quarrel fires from the wall opposite
+the door as you enter the room.
+
+LEVEL THREE 
+
+CAVE IN TRAP - There are no traps per se in the Apshaian
+mines. One never knows, however, when a rock might loose
+itself and cause severe damage to those unfortunate enough
+to be standing below. For this reason it is highly
+recommended that all visitors wear helmets while wandering
+through the ancient caverns.
+
+LEVEL FOUR 
+
+LILY TRAP - When you disturb the chest you reveal some
+lilies which give off a cloud of fine powder that causes a
+severe swelling in your throat.
+
+DAGGER TRAP - As you examine the cabinet a stiletto with a
+dark stain near the tip thrusts itself toward you and then
+retracts.
+
+FLAME TRAP - A jet of flame roars out from the wall above
+the chest as you disturb the contents.
+
+PIT TRAP - A twenty toot pit with a bed of spikes at the
+bottom opens beneath your feet. Still alive? Rough footholds
+have been dug in the earthen side of the pit.
+
+SPEAR TRAP - Three spears thrust out of the wall at waist
+level and then retract.
+
+                      The Treasures 
+                        of Apshai 
+
+LEVEL ONE 
+
+T01 - Several of the lilies* can be reached. A vague memory
+of the healing properties of some Apshaian flowers prompts
+you to pluck them for later perusal.
+
+T02 - The delicate Iragrance of the moss prompts you to
+place a sample in your pack for later investigation (see
+Incense Moss*). 
+
+T03 - Any plant that glows in the dark must be worth
+something to someone so you bag some (see Phosphorescent
+Algae*).
+
+T04 - Upon closer examination the shield is revealed to
+contain slivers of mithril, the hallmark of magical arms and
+armor.
+
+T05 - The aroma of the plant overcomes your better judgement
+and you taste a bit of it. It is delicious and builds strong
+bodies twelve ways (see Food Algae*).
+
+T06 - Having enough to worry about at present you forego
+sampling the mushrooms* for the time being and take some of
+each type for future examination.
+
+T07 - Having spent some time up and down the coast you know
+of several varieties of useful seaweed so you take some
+along (see Kelp*).
+
+T08 - In a pocket of the deceased you find four gold pieces.
+
+T09 - The arrows all have silver points (see Silver
+Arrows*)
+
+T10 - Resting in the dirt are five small diamonds*.
+
+Til - Eight small diamonds* lay in the dirt.
+
+T12 - Four small diamonds* rest in the earth.
+
+T13 - Laying in the dirt are seven small diamonds*.
+
+T14 - The arrows have silver points (see Silver Arrows*).
+
+T15 - The sword has mithril worked into the blade, the
+hallmark of magical arms and armor. There are also two gold
+pieces on the body.
+
+T16 - Inside the cabinet you find five arrows with mithril
+worked into the points.
+
+T17 - This much copper has got to be valuable so you slip
+the ingot into your sack (see Copper Ingot*).
+
+T18 - Inside the box you find two hundred silver pieces and
+a diamond ring*.
+
+T20 - Nothing of value. 
+
+* See Master Treasure Key 
+
+LEVEL TWO 
+
+T01 - After coaxing open the cabinet you find a silver
+candelabra*, six silver trays* and a bronze skull ring* with
+mithril specks for eyes.
+
+T02 - Fifty silver pieces.
+
+T03 - Oil the workbench you find a small gold ingot* and a
+tiny box with two small rubies* inside.
+
+T04 - You stumble across a finely worked shield with mithril
+worked into it.
+
+T05 - On a shelf on the south wall you find two small silver
+ingots*, two copper ingots* and a tiny box with three small
+diamonds* inside.
+
+T06 - Finding nothing of value in the room you pour the
+milky liquid into a water skin, just in case you happen to be
+dying of thirst in the desert some day (see Milky white
+Potion*).
+
+T07 - After jimmying the lock you find five hundred copper
+pieces and four hundred silver pieces as well as a porcelain
+talisman inscribed with mithril runes (see Magic Talisman*).
+
+T08 - On a back shelf of one of the racks you find a finely
+honed blade worked with mithril.
+
+T09 - The moldy sack splits at your touch spilling its
+contents of sixty gold pieces to the ground.
+
+T10 - A search of the lockers reveals that aside from rotten
+clothing, one contains six hundred copper pieces, another
+contains a sack with sixty gold pieces, and the last holds
+two hundred silver pieces and a diamond ring*.
+
+T1l - The sack contains one hundred silver pieces and thirty
+gold pieces.
+
+T12 - Under the mattress on the bed you find a moneybelt
+containing two hundred silver pieces and thrity gold pieces.
+
+T20 - Nothing of value.
+
+LEVEL THREE 
+
+T01 - Two gold nuggets* 
+
+T02 - Three gold nuggets*
+
+T03- Four gold nuggets*
+
+T05 - Five gold nuggets*
+
+T06 - Nothing of value.
+
+T07 - Two smaW diamonds* lay in the dust.
+
+T08 - One small ruby* lays in the dirt.
+
+T09 - Resting in the earth is one small emerald*.
+
+T10 - Laying in the dirt you find one small sapphire*.
+
+T1l - One small diamond* mingles with the earth.
+
+T12 - One small emerald* and one small diamond* gleam from
+the dirt.
+
+T13 - One small ruby* and one small diamond* lay in the
+earth.
+
+T14 - Inside the backpack you find three hundred gold
+pieces, a pearl ring*, an emerald ring* and a sapphire
+bracelet*. In a pocket on the body you find a bronze skull
+ring* with mithnl specks for eyes.
+
+T15 - Inside the sack you find three small diamonds*, a
+small ruby*, a ruby chalice*, a silver chain* and a pearl
+ring*.
+
+T16 - A small pouch containing two small diamonds* and a
+small ruby*.
+
+T17 - In the corner you find a small sack with two small
+diamonds*, a small sapphire*, a small ruby* and a diamond
+goblet* inside.
+
+T18 - Behind the large web is a heap o( two hundred gold
+nuggets*.
+
+T19 - A search of the chests and coffers reveals forty five
+small diamonds*, ten small emeralds*, seven small sapphires*
+and four small rubies*.
+
+T20 - Nothing of value. 
+
+LEVEL FOUR 
+
+T01 - Thar's gold in them thar plaques, (see Gold Plaque*).
+
+T02 - The solitary sword has mithril slivers worked into the
+blade.
+
+T03 - Inside the box you find eighty four platinum pieces*,
+fifty-five small diamonds* and a neatly folded cloak with
+mithril threads interwoven through the fabric, (see Magic
+Cloak*).
+
+T04 - The body wears a moneybelt with sixty five gold pieces
+inside.
+
+T05 - The chest holds sixty gold pieces, fifteen small
+emeralds*, an emerald bracelet*, two diamond stickpins*, two
+gold chains* and a pair of fine leather boots with mithril
+slivers embedded in the soles, (see Magic Boots*).
+
+T06 - The runes on the cover prove to be flecked with
+mithril which prompts you to Stash the book in your backpack
+for later perusal, (see Magic Book*).
+
+T07 - The arrows have mithril slivers worked into the
+points.
+
+T08 - Beneath the body in the corner you discover two large
+sacks, each of which contains two hundred and fifty gold
+pieces.
+
+T09 - Neatly arranged on the shelves are five platinum
+crosses* two platinum offering plates* and two platinum
+candeiabras*.
+
+T10 - Scattered in the dust you find fifty gold pieces.
+
+T1l - You find thirty gold pieces scattered in the dust.
+
+T12 - The small sack proves to be more than it appears
+holding ten thousand silver pieces but weighing much less
+than one would expect.
+
+T13 - The gold plaque* won't fit into your backpack but you
+decide to carry it along anyway.
+
+T14 - Two large rubies.
+
+T20- Nothing of value.
+
+                     MASTER TREASURE KEY 
+
+Coinage Valuation 
+1 Silver Piece = 10 Copper Pieces 
+10 Silver Pieces = 1 Gold Piece 
+
+Baubles 
+Gems                          Miscellaneous 
+Small Diamond      100 SP     Copper Ingot        20 SP 
+Small Emerald      200 SP     Gold Candelabra    350 SP 
+Small Ruby         400 SP     Gold Cross         250 SP 
+Small Sapphire     300 SP     Gold Ingot         450 SP 
+Large Ruby        3000 SP     Gold Nugget         50 SP 
+Jewelry                       Gold Plaque       2000 SP 
+Diamond Goblet    2000 SP     Gold Plate         100 SP 
+Diamond Ring       300 SP     Platinum Piece     100 SP 
+Diamond Stickpin  1000 SP     Silver Arrow         1 SP 
+Emerald Bracelet  5000 SP     Silver Candelabra  200 SP 
+Emerald Ring       500 SP     Silver Ingot       100 SP 
+Gold Chain        1000 SP     Silver Tray        100 SP 
+Pearl Ring         200 SP 
+Ruby Chalice      1100 SP 
+Sapphire Bracelet 1600 SP 
+Silver Chain       900 SP 
+
+Flora 
+Food Algae           5 SP
+Incense Moss        30 SP 
+Kelp                 5 SP 
+Mushrooms            6 SP 
+Phosphorescent Algae 5 SP 
+
+Lillies
+When eaten, each acts exactly as a healing potion. 
+
+The values given are for the quantites contained in each
+respective treasure.
+
+                      MAGICAL ITEMS 
+
+Magic Arms - These items are enhanced to varying potencies
+the exact nature of which is unavailable to adventurers. It
+is known that certain powerful blades glow with a light of
+their own. Beware of cursed items.
+
+Magic Books - These items most commonly increase certain
+characteristics of the reader although other effects are not
+unheard of. Their effect is permanent.
+
+Magic Boots - Rumor has it that these boots enable the
+wearer to run like the wind.
+
+Magic Cloaks - These Apshaian creations are said to protect
+the wearer from physical injury. This protection is by no
+means absolute.
+
+Skull Rings - These rings have some power in relation to the
+living dead which wander the underground passageways. The
+exact nature of these powers is unknown but they have
+figured in several miraculous escapes from the foul
+miscreants. 
+
+Magic Talisman - These trinkets endow the holder with
+wondrous powers of mental perception.
+
+Milky White Potion - This is simply a commonly known healing
+potion.
+
+With the exceptions of the arms and the magic books, all of
+the magic items found in the ruins are enchanted with spells
+peculiar to the Apshaians and lose their power permanently
+if they are ever taken from the complex.

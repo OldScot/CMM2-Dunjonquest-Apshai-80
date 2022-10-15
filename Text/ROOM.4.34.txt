@@ -1,0 +1,13 @@
+@'ROOM.4.34.TXT
+@<ROOM.4.33
+@>ROOM.4.35
+@T
+Level 4 - Room Thirty-four
+Is a room filled with shelves of rotting books and scrolls.
+A desk stands near the brass-bound door to the north and a
+glass case occupies the southwest corner of the room.
+Inside the case is a well preserved volume bound in leather
+and bearing a title in indecipherable script. The floor is
+covered with an even layer of dust and the air smells of
+decay. The door to the east is wooden and hangs ajar from
+its rusty hinges.

@@ -1,0 +1,7 @@
+@'TRAP.1.8.TXT
+@<TRAP.1.7
+@>TRAP.1.9
+@T
+Level 1 - CAVE IN TRAP
+
+An undocumented Cave In trap.

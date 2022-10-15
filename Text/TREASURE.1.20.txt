@@ -1,0 +1,6 @@
+@'TREASURE.1.20.TXT
+@<TREASURE.1.19
+@>TREASURE.2.1
+@T
+Level 1 - Treasure Twenty
+Nothing of value.

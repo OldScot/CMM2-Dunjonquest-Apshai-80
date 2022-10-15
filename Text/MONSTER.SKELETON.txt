@@ -1,0 +1,9 @@
+@'MONSTER.SKELETON.TXT
+@<MONSTER.SKELETAL BAT
+@>MONSTER.SPIDER
+@T
+Skeletons
+Are the animated skeletons of men which now stalk the
+underground passages in search of victims.  They are
+said to devour the soul of their victim as it exits
+the dying body.

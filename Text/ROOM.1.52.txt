@@ -1,0 +1,10 @@
+@'ROOM.1.52.TXT
+@<ROOM.1.51
+@>ROOM.1.53
+@T
+Level 1 - Room Fifty-two
+Is a smoothly worked passage.  Shallow alcoves
+line the north wall, but are empty save for dust
+and an old boot that crumbles at a touch. The
+carpet of dust on the smooth floor is undisturbed.
+

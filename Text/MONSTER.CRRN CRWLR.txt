@@ -1,0 +1,10 @@
+@'MONSTER.CRRN CRWLR.TXT
+@<MONSTER.ANT MAN
+@>MONSTER.CENTIPEDE
+@T
+Carrion Beasts
+These creatures resemble squids equipped with spindly
+legs.  They generally have six tentacles with which
+they maul and crush their prey.  Their bodies are
+covered with a thin but hard carapace and they are
+able to travel along walls and ceilings.

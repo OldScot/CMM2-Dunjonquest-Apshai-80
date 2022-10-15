@@ -1,0 +1,11 @@
+@'ROOM.1.1.TXT
+@>ROOM.1.2
+@T
+Level 1 - Room One
+The smooth stonework of the passageway floor shows
+that advanced methods were used in its creation. A
+skeleton sprawls on the floor just inside the door,
+a bony hand, still clutching a rusty dagger,
+outstretched toward the door to safety. A faint
+roaring sound can be heard from the far end of the
+passage.

@@ -1,0 +1,4 @@
+@'TRAP.3.0.TXT
+@T
+Level 3 - FLAME TRAP
+An undocumented flame trap.

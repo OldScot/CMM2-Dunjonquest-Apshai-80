@@ -1,0 +1,11 @@
+@'ROOM.2.38.TXT
+@<ROOM.2.37
+@>ROOM.2.39
+@T
+Level 2 - Room Thirty-eight
+Is a large natural cavern. Manacles hang from the
+north wall, one set still supporting a human
+skeleton. Various braziers, irons, and larger
+implements of torture line the east and south walls.
+The air is musty and the moaning and clanking
+continues though no source is evident.

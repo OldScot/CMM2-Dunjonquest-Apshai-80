@@ -1,0 +1,7 @@
+@'TREASURE.4.2.TXT
+@<TREASURE.4.1
+@>TREASURE.4.3
+@T
+Level 4 - Treasure Two
+The solitary sword has mithril
+slivers worked into the blade.

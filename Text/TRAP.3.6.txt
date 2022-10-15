@@ -1,0 +1,7 @@
+@'TRAP.3.6.TXT
+@<TRAP.3.5
+@>TRAP.3.7
+@T
+Level 3 - NEEDLE TRAP
+
+An undocumented needle trap.

@@ -1,0 +1,10 @@
+@'TREASURE.3.19.TXT
+@<TREASURE.3.18
+@>TREASURE.3.20
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Nineteen
+A search of the chests and coffers
+reveals forty five small diamonds*,
+ten small emeralds*, seven small
+sapphires* and four small rubies*.

@@ -1,0 +1,10 @@
+@'ROOM.3.35.TXT
+@<ROOM.3.34
+@>ROOM.3.36
+@T
+Level 3 - Room Thirty-five
+Is a large natural cavern. The rough stone walls
+and vaulted ceiling are draped with filmy webs.
+The entire southeast corner is obscured by a huge
+web. The dusty floor is littered with a variety
+of bones and exoskeletons.

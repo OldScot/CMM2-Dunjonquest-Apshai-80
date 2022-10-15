@@ -1,0 +1,7 @@
+@'TRAP.4.2.TXT
+@<TRAP.4.1
+@>TRAP.4.3
+@T
+Level 4 - MOLD TRAP
+
+An undocumented mold trap.

@@ -1,0 +1,8 @@
+@'TRAP.2.7.TXT
+@<TRAP.2.5
+@>TRAP.3.8
+@T
+Level 2 - X-BOW TRAP
+
+A crossbow quarrel fires from the wall
+opposite the door as you enter the room.

@@ -1,0 +1,7 @@
+@'TRAP.3.1.TXT
+@<TRAP.2.9
+@>TRAP.3.2
+@T
+Level 3 - DUST TRAP
+
+An undocumented dust trap.

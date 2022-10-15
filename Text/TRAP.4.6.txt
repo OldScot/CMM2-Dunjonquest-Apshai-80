@@ -1,0 +1,7 @@
+@'TRAP.4.6.TXT
+@<TRAP.4.5
+@>TRAP.4.7
+@T
+Level 4 - NEEDLE TRAP
+
+An undocumented needle trap.

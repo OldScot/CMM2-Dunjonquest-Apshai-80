@@ -1,0 +1,6 @@
+@'TRAP.4.5.TXT
+@<TRAP.4.3
+@T
+Level 4 - SPEAR TRAP
+Three spears thrust out of the wall
+at waist level and then retract.

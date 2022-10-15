@@ -1,0 +1,8 @@
+@'MONSTER.GNT RAT.TXT
+@<MONSTER.MOSQUITO
+@>MONSTER.GIANT SPIDER
+@T
+Giant Rats
+Are four feet tall at the shoulder and have nasty
+teeth.  They are dirty creatures and are
+recognizable by their musky smell.

@@ -1,0 +1,10 @@
+@'ROOM.3.28.TXT
+@<ROOM.3.27
+@>ROOM.3.29
+@T
+Level 3 - Room Twenty-eight
+Is a rough, narrow tunnel. The fkxir is bare except
+for a skeleton near the opening to the south.
+Cobwebs hang in the passage and scraping and
+clicking sounds can be heard from the west. The air
+smells strongly of death and decay.

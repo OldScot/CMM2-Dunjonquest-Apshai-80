@@ -1,0 +1,9 @@
+@'TRAP.1.2.TXT
+@<TRAP.1.5
+@>TRAP.2.9
+@T
+Level 1 - MOLD TRAP
+
+The yellow mold on the floor gives off a
+cloud of spores as it is stepped on.
+These spores cause a severe coughing fit.

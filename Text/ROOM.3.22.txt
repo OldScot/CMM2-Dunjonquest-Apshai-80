@@ -1,0 +1,8 @@
+@'ROOM.3.22.TXT
+@<ROOM.3.21
+@>ROOM.3.23
+@T
+Level 3 - Room Twenty-two
+Is a narrow passage. The opening to the north
+has been carved through the stone wall. The
+dusty floor shows signs of some disturbance.

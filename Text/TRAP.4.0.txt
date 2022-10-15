@@ -1,0 +1,7 @@
+@'TRAP.4.0.TXT
+@<TRAP.4.4
+@>TRAP.4.3
+@T
+Level 4 - FLAME TRAP
+A jet of flame roars out from the wall above
+the chest as you disturb the contents.

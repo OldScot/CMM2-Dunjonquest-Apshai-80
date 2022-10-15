@@ -1,0 +1,9 @@
+@'ROOM.3.12.TXT
+@<ROOM.3.11
+@>ROOM.3.13
+@T
+Level 3 - Room Twelve
+Is a small cave with leveled floor. The opening to
+the east has been carved through solid rock. The
+dusty floor is largely undisturbed save for a small
+slide of earth in ihe southwest corner.

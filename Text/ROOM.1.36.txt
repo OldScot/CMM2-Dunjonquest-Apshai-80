@@ -1,0 +1,10 @@
+@'ROOM.1.36.TXT
+@<ROOM.1.35
+@>ROOM.1.37
+@T
+Level 1 - Room Thirty-six
+Vanilla fills the air and the clicking sound
+appears to emanate from nearby. A fresh slide
+of earth against the north wall reveals the
+glitter of gems amid the fallen earth.
+

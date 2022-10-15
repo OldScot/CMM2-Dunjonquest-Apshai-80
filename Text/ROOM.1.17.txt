@@ -1,0 +1,10 @@
+@'ROOM.1.17.TXT
+@<ROOM.1.16
+@>ROOM.1.18
+@T
+Level 1 - Room Seventeen
+Only the floor has been smoothed in this chamber, the
+walls and ceiling having been left in the natural state.
+The air smells of decaying vegetable matter. A small
+mound of stones against the west wall in the north end
+of the passage partially blocks the way to the north.

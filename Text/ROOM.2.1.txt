@@ -1,0 +1,11 @@
+@'ROOM.2.1.TXT
+@<ROOM.1.56
+@>ROOM.2.2
+@T
+Level 2 - Room One
+Is a passage with native granite walls. The ceiling
+and floor have been carved level. A low scraping sound
+vibrates through the floor. The air has the musty smell
+of age and death. The dust on the floor is heavy near
+the walls, but a clear path has been worn down the
+center of the passage.

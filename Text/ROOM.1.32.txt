@@ -1,0 +1,11 @@
+@'ROOM.1.32.TXT
+@<ROOM.1.31
+@>ROOM.1.33
+@T
+Level 1 - Room Thirty-two
+Is a rough, five-foot wide tunnel with packed
+dirt walls, floor, and ceiling. A shining trail
+of dried fluid runs the length of the tunnel
+and the air smells of vanilla. Strange clicking
+sounds echo faintly through the passage.
+

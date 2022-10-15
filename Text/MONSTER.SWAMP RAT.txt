@@ -1,0 +1,10 @@
+@'MONSTER.SWAMP RAT.TXT
+@<MONSTER.SPIDER
+@>MONSTER.VAMPIRE BAT
+@T
+Swamp Rats
+Are two to three feet long and are famed for their
+ravenous appetites.  They will fearlessly attack
+anything that moves or has a strong smell and they
+eat anything they can swallow.  They come in your
+choice of decorator colors.

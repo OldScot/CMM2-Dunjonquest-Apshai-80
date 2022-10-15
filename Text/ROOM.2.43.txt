@@ -1,0 +1,10 @@
+@'ROOM.2.43.TXT
+@<ROOM.2.39
+@>ROOM.2.47
+@T
+Level 2 - Room Forty-three through Forty-six
+Also form a narrow passage. The doors to the south are
+iron. Each has a small barred window at eye level and
+a small slot at ground level. All are locked with
+slidebolts. Clanking chains and sorrowful moaning echo
+through the passage. 

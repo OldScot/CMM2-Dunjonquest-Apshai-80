@@ -1,0 +1,8 @@
+@'ROOM.3.47.TXT
+@<ROOM.3.46
+@>ROOM.3.48
+@T
+Level 3 - Room Forty-seven
+Is a small cave with the floor carved level. The floor
+shows tracks from the southern opening to the center
+of the room where a small pile of gnawed bones rests.

@@ -1,0 +1,8 @@
+@'TRAP.4.1.TXT
+@<TRAP.3.8
+@>TRAP.4.4
+@T
+Level 4 - LILY (DUST) TRAP
+When you disturb the chest you reveal some
+lillies which give off a cloud of fine powder
+that causes a severe swelling in your throat.

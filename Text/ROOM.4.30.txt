@@ -1,0 +1,9 @@
+@'ROOM.4.30.TXT
+@<ROOM.4.29
+@>ROOM.4.31
+@T
+Level 4 - Room Thirty
+Is a passage with wooden doors to the north and south.
+The dusty floor shows the tracks of large animals and
+the air reeks of musk. The empty carapace of an antman
+lies at the eastern end of the passage.

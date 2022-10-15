@@ -1,0 +1,9 @@
+@'ROOM.2.22.TXT
+@<ROOM.2.21
+@>ROOM.2.23
+@T
+Level 2 - Room Twenty-two
+At the far end of the narrow passage there is a door
+of brass bound oak inscribed with strange glyphs.
+These give off an eerie green glow. The floor is
+covered with an even layer of dust.

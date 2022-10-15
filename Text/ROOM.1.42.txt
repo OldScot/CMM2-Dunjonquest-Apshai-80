@@ -1,0 +1,10 @@
+@'ROOM.1.42.TXT
+@<ROOM.1.41
+@>ROOM.1.43
+@T
+Level 1 - Room Forty-two
+The vanilla odor is cloyingly thick. Bones
+and gems litter the floor along the north
+wall. The clicking sound is plainly audible
+within the cave.
+

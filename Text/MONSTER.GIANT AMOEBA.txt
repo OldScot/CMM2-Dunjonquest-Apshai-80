@@ -1,0 +1,8 @@
+@'MONSTER.GIANT AMOEBA.TXT
+@<MONSTER.GHOUL
+@>MONSTER.GIANT ANT
+@T
+Giant Amoeba
+This creature is a mass of gray protoplasm which
+has a strong solvent effect on living flesh.
+They range from six to ten feet in diameter.

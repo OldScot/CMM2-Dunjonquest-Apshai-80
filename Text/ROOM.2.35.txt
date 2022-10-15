@@ -1,0 +1,8 @@
+@'ROOM.2.35.TXT
+@<ROOM.2.34
+@>ROOM.2.36
+@T
+Level 2 - Room Thirty-five
+Dark stains cover the carved stone floor in
+front of the door to the west. The air smells
+of antiquity and death.

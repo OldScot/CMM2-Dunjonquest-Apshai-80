@@ -1,0 +1,10 @@
+@'ROOM.2.19.TXT
+@<ROOM.2.18
+@>ROOM.2.20
+@T
+Level 2 - Room Nineteen
+The door in the west wall is wooden and has no
+latch. The musty smelling room is filled with
+dusty weaving looms and other spinning and
+sewing devices. The scraping sound can be heard
+through the floor.

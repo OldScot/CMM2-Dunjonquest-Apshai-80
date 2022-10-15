@@ -1,0 +1,14 @@
+@'ROOM.4.25.TXT
+@<ROOM.4.24
+@>ROOM.4.25B
+@T
+Level 4 - Room Twenty-five
+Is a large room with heiroglyphs inscribed in the dark slate
+walls. Stone benches occupy the western half of the room.
+Although much worn by wear, strange heiroglyphs and scenes
+showing intermingled insects and men can be seen carved in
+the sides and backs of the benches. Blocks of stone,
+hollowed out on top in the shape of bowls, protrude from
+the walls at irregular intervals. Ornate black metal braziers
+hang from the ceiling about the edges of the room. Against
+(Continued ->)

@@ -1,0 +1,9 @@
+@'MONSTER.MOSQUITO.TXT
+@<MONSTER.GNT LEECH
+@>MONSTER.GIANT RAT
+@T
+Giant Mosquitos
+Have a three or four foot wingspan and maneuver
+their slender bodies about rapidly through the
+air.  They insert their proboscises into their
+prey and drain the body fluids.

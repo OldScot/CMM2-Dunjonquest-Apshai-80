@@ -1,0 +1,10 @@
+@'ROOM.3.45.TXT
+@<ROOM.3.44
+@>ROOM.3.46
+@T
+Level 3 - Room Forty-five
+Is a small chamber with the walls, floor and ceiling
+chiseled smooth. The dust shows a heavily trafficked
+path through the opening to the west and a less clear
+trail through the opening to the east. The air smells
+faintly of vanilla.

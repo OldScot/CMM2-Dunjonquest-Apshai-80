@@ -1,0 +1,7 @@
+@'TRAP.3.9.TXT
+@<TRAP.3.8
+@>TRAP.4.1
+@T
+Level 3 - CEILING TRAP
+
+An undocumented ceiling trap.

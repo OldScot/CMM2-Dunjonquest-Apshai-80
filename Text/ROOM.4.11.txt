@@ -1,0 +1,9 @@
+@'ROOM.4.11.TXT
+@<ROOM.4.10
+@>ROOM.4.12
+@T
+Level 4 - Room Eleven
+Is an ornately decorated passage. A moldenng skeleton
+in tattered leather armor lies against the rusty iron
+door at the end of the passage. There are no tracks
+in the dust of the floor.

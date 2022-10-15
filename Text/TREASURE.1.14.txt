@@ -1,0 +1,7 @@
+@'TREASURE.1.14.TXT
+@<TREASURE.1.13
+@>TREASURE.1.15
+@*KEY.MISC
+@C
+Level 1 - Treasure Fourteen
+The arrows have silver points (see Silver Arrows*).

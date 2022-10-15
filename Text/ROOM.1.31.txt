@@ -1,0 +1,10 @@
+@'ROOM.1.31.TXT
+@<ROOM.1.30
+@>ROOM.1.32
+@T
+Level 1 - Room Thirty-one
+Is a narrow, low tunnel of native rock. Small slides
+of earth and rock line the sides of the passage with
+a larger fall of stones near the eastern end of the
+tunnel. A skeletal hand protrudes from the rockfall,
+an inscribed bronze ring visible on one of the fingers.

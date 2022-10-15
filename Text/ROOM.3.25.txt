@@ -1,0 +1,7 @@
+@'ROOM.3.25.TXT
+@<ROOM.3.24
+@>ROOM.3.26
+@T
+Level 3 - Room Twenty-five
+Is a small passage carved
+through the surrounding rock.

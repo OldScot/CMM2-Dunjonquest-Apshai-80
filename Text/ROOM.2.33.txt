@@ -1,0 +1,7 @@
+@'ROOM.2.33.TXT
+@<ROOM.2.32
+@>ROOM.2.34
+@T
+Level 2 - Room Thirty-three
+Is a short passageway. A rumbling sound can
+be heard from the opening to the north.

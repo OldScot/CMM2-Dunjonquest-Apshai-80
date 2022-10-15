@@ -1,0 +1,6 @@
+@'TREASURE.1.8.TXT
+@<TREASURE.1.7
+@>TREASURE.1.9
+@T
+Level 1 - Treasure Eight
+In a pocket of the deceased you find four gold pieces.  

@@ -1,0 +1,9 @@
+@'MONSTER.GIANT SPIDER.TXT
+@<MONSTER.GNT RAT
+@>MONSTER.GNT TERMITE
+@T
+Giant Spiders
+Look like a tarantula-black widow hybrid with a
+harry black body and black and red banded legs.
+They are reputed to be quite poisonous as one
+might expect from the four or five foot size.

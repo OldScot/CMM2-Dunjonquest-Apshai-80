@@ -1,0 +1,9 @@
+@'ROOM.4.39.TXT
+@<ROOM.4.38
+@>ROOM.4.40
+@T
+Level 4 - Room Thirty-nine
+The dusty floor shows the tracks of large animals
+and the air reeks of musk. A discarded backpack
+rests on the floor in the middle of the passage.
+The door to the east is brass-bound oak.

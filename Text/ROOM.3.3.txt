@@ -1,0 +1,8 @@
+@'ROOM.3.3.TXT
+@<ROOM.3.2
+@>ROOM.3.4
+@T
+Level 3 - Room Three
+Is a natural cave. Many bones litter the
+floor along the walls. The opening to the
+east has been dug through the rock wall.

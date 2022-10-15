@@ -1,0 +1,7 @@
+@'TRAP.4.8.TXT
+@<TRAP.4.7
+@>TRAP.4.9
+@T
+Level 4 - CAVE IN TRAP
+
+An undocumented cave in trap.

@@ -1,0 +1,7 @@
+@'TREASURE.1.13.TXT
+@<TREASURE.1.12
+@>TREASURE.1.14
+@*KEY.GEMSJEWELRY
+@T
+Level 1 - Treasure Thirteen
+Laying in the dirt are seven small diamonds*. 

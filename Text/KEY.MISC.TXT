@@ -1,0 +1,13 @@
+@'KEY.MISC.TXT
+@<KEY.GEMSJEWELRY
+@>KEY.FLORA
+@T
+Master Treasure Key - Miscellaneous
+   1 Gold (GP) = 10 Silver (SP) = 100 Copper (CP)
+
+Copper Ingot          20 SP  Platinum Plate   1000 SP
+Platinum Candelabra 3500 SP  Platinum Piece    100 SP
+Platinum Cross      2500 SP  Silver Arrow        1 SP
+Gold Ingot           450 SP  Silver Candelabra 200 SP
+Gold Nugget           50 SP  Silver Ingot      100 SP
+Gold Plaque         2000 SP  Silver Tray       100 SP

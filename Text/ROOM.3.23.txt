@@ -1,0 +1,8 @@
+@'ROOM.3.23.TXT
+@<ROOM.3.22
+@>ROOM.3.24
+@T
+Level 3 - Room Twenty-three
+Is a narrow passage. The air smells faintly of
+vanilla. A rusty pick lies in the dirt at the
+western end of the passage.

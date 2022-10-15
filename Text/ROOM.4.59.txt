@@ -1,0 +1,8 @@
+@'ROOM.4.59.TXT
+@<ROOM.4.58
+@>ROOM.4.60
+@T
+Level 4 - Room Fifty-nine
+Is a small entryway with the walls, floor and ceiling
+of stonework. The dusty floor reveals frequent comings
+and goings and the air smells strongly of vanilla.

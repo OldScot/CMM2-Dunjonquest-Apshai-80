@@ -1,0 +1,11 @@
+@'ROOM.1.10.TXT
+@<ROOM.1.9
+@>ROOM.1.11
+@T
+Level 1 - Room Ten
+The air of the room is filled with a cloying, sweet
+aroma, causing the senses to reel. The walls of the
+room are covered with moss which is largely brown and
+dried with only a few pale green patches remaining.
+Breaking off any part of the green moss will reveal
+it as the source of the aroma.

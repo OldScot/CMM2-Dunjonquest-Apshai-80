@@ -1,0 +1,45 @@
+@'WELCOME.TXT
+@D Welcome to Dunjonquest - Temple of Apshai!
+
+A rework of the original game as it appeared on the Radio Shack TRS-80 Model I in 1979.
+Modified to include the game manual so it isn't needed to play!
+
+This recreation mimics:
+* the original Black and White, 64 character by 16 line display and the 128x48 graphics
+* the addition of the TRS-80 lowercase modification
+
+The non TRS-80 elements are:
+* the legend shown in green at the bottom of the screen (on line 17)
+* the fonts used
+* the ability to pause the game by displaying the manual
+
+The legend shows the function keys available to control and show the game manual pages.
+There are 3 display modes:
+  1ST - display relevant page the first time only
+  ON  - display relevant page everytime
+  OFF - don't automatically display pages
+F9 changes the display mode.
+
+The legend abbreviations are:
+  F1 MAN         Manual        Display the Game Manual. 
+  F2 CMD         Commands      Display the Game Commands.
+  F3 RM          Rooms         Display the Room Descriptions.
+  F4 MON         Monsters      Display the Monster Descriptions.
+  F5 TRP         Traps         Display the Trap Descriptions.
+  F6 TREA        Treasures     Display the Treasure Descriptions.
+  F7 KEY         Key           Display the Master Treasure Key.
+  F8 MAG         Magic         Display the Magic Item Descriptions.
+  F9 ON/1ST/OFF  On/First/Off  The current display mode.
+
+Your adventure begins at the Inn where you equip your adventurer to go to the dungeons.
+The dungeons have 4 levels, the first level is level 1.
+
+While in the Inn a function key will display the first page.
+While in the Dungeons a function key will display the relevant page if applicable.
+
+@D             Happy Adventuring!
+
+Original Temple of Apshai written by Automated Simulations, 1979.
+Colour Maximite 2 version written by Craig S. Buchanan, 2022.
+
+@D       Press Escape to Enter the Temple

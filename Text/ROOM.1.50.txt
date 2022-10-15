@@ -1,0 +1,8 @@
+@'ROOM.1.50.TXT
+@<ROOM.1.49
+@>ROOM.1.51
+@T
+Level 1 - Room Fifty
+A forgotten backpack rests on the slimy stone
+against the middle of the north wall.
+

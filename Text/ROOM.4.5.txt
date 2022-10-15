@@ -1,0 +1,10 @@
+@'ROOM.4.5.TXT
+@<ROOM.4.4
+@>ROOM.4.6
+@T
+Level 4 - Room Five
+A well-worn path in the dust runs the length of a
+corridor and the air smells of vanilla. The door to
+the west is actually a set of double oak doors. The
+hinges look well oiled and marks in the dust on the
+floor betray recent opening. 

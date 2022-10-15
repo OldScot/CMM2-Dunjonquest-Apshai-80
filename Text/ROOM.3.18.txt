@@ -1,0 +1,9 @@
+@'ROOM.3.18.TXT
+@<ROOM.3.17
+@>ROOM.3.19
+@T
+Level 3 - Room Eighteen
+Is a natural passage. A small sack rests against
+the south wall halfway down the passage. The air
+is filled with a musky odor. The earthen floor
+is covered with the tracks of small animals.

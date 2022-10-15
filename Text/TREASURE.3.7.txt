@@ -1,0 +1,7 @@
+@'TREASURE.3.7.TXT
+@<TREASURE.3.6
+@>TREASURE.3.8
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Seven
+Two small diamonds* lay in the dust.

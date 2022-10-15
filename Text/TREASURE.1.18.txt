@@ -1,0 +1,8 @@
+@'TREASURE.1.18.TXT
+@<TREASURE.1.17
+@>TREASURE.1.19
+@*KEY.GEMSJEWELRY
+@T
+Level 1 - Treasure Eighteen
+Inside the box you find two hundred
+silver pieces and a diamond ring*. 

@@ -1,0 +1,9 @@
+@'ROOM.1.37.TXT
+@<ROOM.1.36
+@>ROOM.1.38
+@T
+Level 1 - Room Thirty-seven
+The odor of vanilla is strong and the clicking sounds
+continue. The east wall is studded with a number of
+glittering gems.
+

@@ -1,0 +1,10 @@
+@'MONSTER.GIANT WASP.TXT
+@<MONSTER.GIANT TICK
+@>MONSTER.JELLY
+@T
+Giant Wasps
+Are three or four feet in length and their thorax
+is tipped by a paralyzing stinger.  They are very
+mobile and will attempt to sting their prey into
+submission before burying their prize for future
+consumption.

@@ -1,0 +1,7 @@
+@'ROOM.2.57.TXT
+@<ROOM.2.56
+@>ROOM.3.1
+@T
+Level 2 - Room Fifty-seven
+Dark stains and pieces of bone dot the floor.
+Faint moans echo through the corridor.

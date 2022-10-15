@@ -1,0 +1,10 @@
+@'COMMAND.ATTACK.TXT
+@<COMMAND.NEW
+@T
+Attack Commands
+
+A  Normal attack
+T  Thrust
+P  Parry
+F  Fire a normal arrow
+M  Fire a magic arrow

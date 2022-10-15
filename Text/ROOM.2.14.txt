@@ -1,0 +1,10 @@
+@'ROOM.2.14.TXT
+@<ROOM.2.13
+@>ROOM.2.15
+@T
+Level 2 - Room Fourteen
+Is a small cave with stonework on the east wall and
+the other walls, floor, and ceiling of carved rock.
+An iron chest sits against the south wall with the
+key still in the lock. The floor shows signs of
+recent entry and the air smells faintly of vanilla.

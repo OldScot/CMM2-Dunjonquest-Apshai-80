@@ -1,0 +1,8 @@
+@'ROOM.3.5.TXT
+@<ROOM.3.4
+@>ROOM.3.6
+@T
+Level 3 - Room Five
+Is a natural cave with a leveled floor. The body
+of a giant rat lies in the southeast corner. The
+dusty floor shows signs of distrubance.

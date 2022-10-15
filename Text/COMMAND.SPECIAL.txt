@@ -1,0 +1,17 @@
+@'COMMAND.SPECIAL.TXT
+@<COMMAND.MOVEMENT
+@>COMMAND.NEW
+@T
+Special Commands
+
+O  Open Door
+E  Examine wall for secret door
+S  Search for traps
+G  Grab treasure
+D  Drop treasure - followed by message
+   DROP SOME - enter the two digit number
+   of the treasure you want to drop
+Q  Hearken (query)
+!  Speak with monster
+H  Apply one healing salve
+Y  Drink a healing potion

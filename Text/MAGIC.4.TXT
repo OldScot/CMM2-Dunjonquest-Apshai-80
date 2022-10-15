@@ -1,0 +1,9 @@
+@'MAGIC.4.TXT
+@T
+@<MAGIC.3
+@>MAGIC.5
+Magic Cloaks
+
+These Apshaian creations are said to protect the
+wearer from physical injury. This protection is
+by no means absolute.

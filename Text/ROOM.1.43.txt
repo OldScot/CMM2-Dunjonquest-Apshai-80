@@ -1,0 +1,11 @@
+@'ROOM.1.43.TXT
+@<ROOM.1.42
+@>ROOM.1.44
+@T
+Level 1 - Room Forty-three
+The aroma of vanilla makes the senses reel and
+the floor of the room is covered with the shiny
+stuff previously observed. Bones lie scattered
+across the floor and the clicking sound grows
+fainter from within. Gems stud the south wall.
+

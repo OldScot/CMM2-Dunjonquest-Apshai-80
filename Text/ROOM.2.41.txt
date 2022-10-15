@@ -1,0 +1,11 @@
+@'ROOM.2.41.TXT
+@<ROOM.2.38
+@>ROOM.2.43
+@T
+Level 2 - Room Thirty-nine through Forty-two
+Form a narrow passage. The doors to the north are of
+iron and have small barred windows at eye level and
+small slots at ground level. All are secured with
+rusted iron slidebolts. The floor is spattered with
+dark stains. The rattling of chains and a faint
+moaning echo through the corndor.

@@ -1,0 +1,9 @@
+@'TREASURE.4.12.TXT
+@<TREASURE.4.11
+@>TREASURE.4.13
+@T
+Level 4 - Treasure Twelve
+The small sack proves to be more than
+it appears holding ten thousand silver
+pieces but weighing much less than one
+would expect.

@@ -1,0 +1,8 @@
+@'ROOM.3.13.TXT
+@<ROOM.3.12
+@>ROOM.3.14
+@T
+Level 3 - Room Thirteen
+Is a small cave The dirt floor shows the
+tracks of large animals. Bones litter
+the northwest and southwest corners.

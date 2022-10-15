@@ -1,0 +1,9 @@
+@'COMMAND.NEW.TXT
+@<COMMAND.SPECIAL
+@>COMMAND.ATTACK
+@T
+New Commands
+
+I  Inventory of Treasures
+   (was hidden and undocumented)
+C  Character Summary

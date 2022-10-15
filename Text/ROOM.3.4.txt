@@ -1,0 +1,8 @@
+@'ROOM.3.4.TXT
+@<ROOM.3.3
+@>ROOM.3.5
+@T
+Level 3 - Room Four
+Is a large cavern. Human and animal tracks mark the
+dusty floor. A bright glint is visible near the top
+of a slide of rocks in the northwest corner.

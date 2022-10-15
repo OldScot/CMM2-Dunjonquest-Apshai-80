@@ -1,0 +1,9 @@
+@'ROOM.3.49.TXT
+@<ROOM.3.48
+@>ROOM.3.50
+@T
+Level 3 - Room Forty-nine
+Is a natural cave. A well trodden path in the dust
+runs between the two openings and the air smells
+faintly of vanilla. A small pile of rusty weapons
+litters the northwest corner.

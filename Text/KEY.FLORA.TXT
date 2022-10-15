@@ -1,0 +1,15 @@
+@'KEY.FLORA.TXT
+@<KEY.MISC
+@T
+Master Treasure Key - Flora
+  1 Gold (GP) = 10 Silver (SP) = 100 Copper (CP)
+
+Flora
+Food Algae            5 SP  The values are for the
+Incense Moss         30 SP  quantities contained in
+Kelp                  5 SP  each respective treasure.
+Mushrooms             6 SP
+Phosphorescent Algae  5 SP
+
+Lilies
+When eaten, each acts exactly as a healing potion,

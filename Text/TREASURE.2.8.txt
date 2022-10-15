@@ -1,0 +1,8 @@
+@'TREASURE.2.8.TXT
+@<TREASURE.2.7
+@>TREASURE.2.9
+@T
+Level 2 - Treasure Eight
+On a back shelf of one of the racks
+you find a finely honed blade worked
+with mithril.

@@ -1,0 +1,11 @@
+@'ROOM.4.32.TXT
+@<ROOM.4.31
+@>ROOM.4.33
+@T
+Level 4 - Room Thirty-two
+Is a long room with the ceiling and upper parts of
+the walls covered with a heavy layer of soot. Three
+large stone ovens line the north wall and a long
+grill occupies the eastern half of the south wall.
+The dusty floor shows the tracks of large animals
+and the air reeks of musk.

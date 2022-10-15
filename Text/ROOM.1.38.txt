@@ -1,0 +1,10 @@
+@'ROOM.1.38.TXT
+@<ROOM.1.37
+@>ROOM.1.39
+@T
+Level 1 - Room Thirty-eight
+The tunnel appears to have been dug out of the
+hard earth. A familiar trail runs the length
+of the passage and the odor of vanilla is heavy.
+The clicking sound begins to fade.
+

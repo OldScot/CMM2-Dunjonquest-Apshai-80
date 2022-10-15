@@ -1,0 +1,10 @@
+@'ROOM.4.17.TXT
+@<ROOM.4.16
+@>ROOM.4.18
+@T
+Level 4 - Room Seventeen
+Is a largish room. Remnants of cloth and leather
+hangings cover the walls and the air carries a
+strong aroma of vanilla. The dusty floor is well
+travelled. A large cabinet stands against the
+west wall of the room.

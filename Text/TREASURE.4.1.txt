@@ -1,0 +1,8 @@
+@'TREASURE.4.1.TXT
+@<TREASURE.3.20
+@>TREASURE.4.2
+@*KEY.MISC
+@T
+Level 4 - Treasure One
+Thar's gold in them thar
+plaques, (see Gold Plaque*). 

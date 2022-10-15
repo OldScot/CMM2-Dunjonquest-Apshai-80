@@ -1,0 +1,11 @@
+@'ROOM.2.30.TXT
+@<ROOM.2.29
+@>ROOM.2.31
+@T
+Level 2 - Room Thirty
+Is a large cavern with stonework on the west wall and
+the western half of the south wall. Bales, casks, and
+crates line the walls and the shelves in the middle
+of the room. The air smells of musk and rot, and the
+tracks of small animals abound. Water can be heard
+flowing beneath the floor.

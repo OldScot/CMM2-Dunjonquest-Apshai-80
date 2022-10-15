@@ -1,0 +1,9 @@
+@'ROOM.4.56.TXT
+@<ROOM.4.55
+@>ROOM.4.57
+@T
+Level 4 - Room Fifty-six
+The dusty floor is marked with the tracks of large
+animals and the air smells of musk. A cleanly picked
+skeleton reclines against the west wall halfway down
+the passage.

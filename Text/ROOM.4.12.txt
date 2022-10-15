@@ -1,0 +1,9 @@
+@'ROOM.4.12.TXT
+@<ROOM.4.11
+@>ROOM.4.13
+@T
+Level 4 - Room Twelve
+Is a passage with an even layer of dust covering the
+floor. The air smells of decay with a hint of vanilla.
+The skull of a mule rests against the wall outside the
+wooden door to the north.

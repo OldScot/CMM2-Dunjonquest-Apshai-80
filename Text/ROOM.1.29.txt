@@ -1,0 +1,11 @@
+@'ROOM.1.29.TXT
+@<ROOM.1.28
+@>ROOM.1.30
+@T
+Level 1 - Room Twenty-nine
+The odor of the slime coating the entire chamber
+floor is overpowering. A trickle of water runs
+down the eastern wall and a small pool has formed
+in a depression in the southeast corner of the
+room. A rigid body in a finely woven cloak lies
+in the northeast corner.

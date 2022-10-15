@@ -1,0 +1,7 @@
+@'TRAP.1.3.TXT
+@<TRAP.1.6
+@>TRAP.1.5
+@T
+Level 1 - PIT TRAP
+
+A ten foot pit opens beneath your feet.

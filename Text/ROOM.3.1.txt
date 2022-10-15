@@ -1,0 +1,11 @@
+@'ROOM.3.1.TXT
+@<ROOM.2.57
+@>ROOM.3.2
+@T
+Level 3 - Room One
+Is a natural passage with the floor carved level.
+Scattered bones litter the area and a forgotten
+backpack rests against the wall half way down the
+passage. The floor shows signs of frequent comings
+and goings and the odor of vanilla is strong in
+the air.

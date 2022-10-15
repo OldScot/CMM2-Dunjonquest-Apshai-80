@@ -1,0 +1,10 @@
+@'MONSTER.VAMPIRE BAT.TXT
+@<MONSTER.SWAMP RAT
+@>MONSTER.WRAITH
+@T
+Vampire Bats
+These creatures inhabit the darker recesses of
+the dungeon. They are generally black and have
+wingspans around three feet.  They bite their
+victims with their razor sharp fangs and drink
+the blood which flows from the wound.

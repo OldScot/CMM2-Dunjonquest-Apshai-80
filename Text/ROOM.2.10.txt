@@ -1,0 +1,10 @@
+@'ROOM.2.10.TXT
+@<ROOM.2.9
+@>ROOM.2.11
+@T
+Level 2 - Room Ten
+Furniture of various types is stacked around the
+walls and the entire floor is covered with a layer
+of fine sawdust. The air is heavy with the smell
+of different woods. A low scraping sound can be
+heard through the floor.

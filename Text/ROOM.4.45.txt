@@ -1,0 +1,7 @@
+@'ROOM.4.45.TXT
+@<ROOM.4.44
+@>ROOM.4.46
+@T
+Level 4 - Room Forty-five
+A faint trail in the dust runs the length of the
+corridor and the air smells faintly of vanilla.

@@ -1,0 +1,7 @@
+@'ROOM.3.48.TXT
+@<ROOM.3.47
+@>ROOM.3.49
+@T
+Level 3 - Room Forty-eight
+Is a cavern. A path in the dust
+runs between the two openings.

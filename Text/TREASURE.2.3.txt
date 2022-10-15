@@ -1,0 +1,9 @@
+@'TREASURE.2.3.TXT
+@<TREASURE.2.2
+@>TREASURE.2.4
+@*KEY.MISC
+@T
+Level 2 - Treasure Three
+Oil the workbench you find a small gold
+ingot* and a tiny box with two small 
+rubies* inside.

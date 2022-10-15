@@ -1,0 +1,12 @@
+@'ROOM.2.4.TXT
+@<ROOM.2.3
+@>ROOM.2.5
+@T
+Level 2 - Room Four
+The east wall is of cut and worked stone. The
+brass-bound wooden doors in the north and south walls
+are secured by rusty iron locks. The tracks of small
+animals crisscross the floor between the doors and
+the air smells of musk and rot. The sound of flowing
+water can be heard through the floor and a low 
+rumbling can be heard in the east end of the passage.

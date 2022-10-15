@@ -1,0 +1,9 @@
+@'MONSTER.SKELETAL BAT.TXT
+@<MONSTER.JELLY
+@>MONSTER.SKELETON
+@T
+Skeletal Bats
+These feral creatures are bare skeletons of bats
+with red ember-like eyes.  They have wingspans of
+two or three feet and will attempt to bite their
+prey with their sharp fangs.

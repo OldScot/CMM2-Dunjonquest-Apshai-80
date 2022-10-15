@@ -1,0 +1,12 @@
+@'TREASURE.2.10.TXT
+@<TREASURE.2.9
+@>TREASURE.2.11
+@*KEY.GEMSJEWELRY
+@T
+Level 2 - Treasure Ten
+A search of the lockers reveals that aside
+from rotten clothing, one contains six
+hundred copper pieces, another contains a
+sack with sixty gold pieces, and the last
+holds two hundred silver pieces and a
+diamond ring*.

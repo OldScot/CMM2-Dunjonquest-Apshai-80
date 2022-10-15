@@ -1,0 +1,9 @@
+@'ROOM.2.8.TXT
+@<ROOM.2.7
+@>ROOM.2.9
+@T
+Level 2 - Room Eight
+The path runs the length of the passage, then
+bends and disappears to the north. The door in
+the west wall is iron-bound wood and hangs
+ajar from rusty iron hinges.

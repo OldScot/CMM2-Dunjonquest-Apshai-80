@@ -1,0 +1,9 @@
+@'ROOM.1.20.TXT
+@<ROOM.1.19
+@>ROOM.1.21
+@T
+Level 1 - Room Twenty
+The walls of the room are covered with algae. Most of
+the algae is black and rotten, but the few remaining
+brown patches have a nutty aroma, and, if tasted, are
+reminiscent of spiced bread.

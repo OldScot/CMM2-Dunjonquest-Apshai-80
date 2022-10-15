@@ -1,0 +1,8 @@
+@'ROOM.3.55.TXT
+@<ROOM.3.54
+@>ROOM.3.56
+@T
+Level 3 - Room Fifty-five
+Is a natural cave with the floor carved level. A
+well trodden path runs between the two openings
+and the air smells faintly of vanilla.

@@ -1,0 +1,7 @@
+@'MAGIC.8.TXT
+@<MAGIC.7
+With the exceptions of the arms and the magic
+books, all of the magic items found in the ruins
+are enchanted with spells peculiar to the Apshains
+and lose their power permanently if they are ever
+taken from the complex.

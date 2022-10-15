@@ -1,0 +1,10 @@
+@'ROOM.3.27.TXT
+@<ROOM.3.26
+@>ROOM.3.28
+@T
+Level 3 - Room Twenty-seven
+Is a narrow corridor that shows signs of frequent
+passage. A litter of small bones lines the walls
+and a well-preserved human skull grins from
+against the north wall halfway down the passage.
+The air smells faintly of vanilla.

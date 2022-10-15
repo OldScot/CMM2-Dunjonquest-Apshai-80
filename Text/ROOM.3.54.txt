@@ -1,0 +1,9 @@
+@'ROOM.3.54.TXT
+@<ROOM.3.53
+@>ROOM.3.55
+@T
+Level 3 - Room Fifty-four
+Is an excavated room. A well worn path marks the
+floor between the two openings and the faint smell
+of vanilla is in the air. A pile of bones rests in
+the northwest corner of the cave.

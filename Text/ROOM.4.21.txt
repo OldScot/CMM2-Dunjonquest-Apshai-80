@@ -1,0 +1,10 @@
+@'ROOM.4.21.TXT
+@<ROOM.4.20
+@>ROOM.4.22
+@T
+Level 4 - Room Twenty-one
+Is a wide room with a large bed occupying the west
+wall and a rack of tattered robes in the northwest
+corner. A desk covered with scrolls stands against
+the east wall. There are large animal tracks in the
+dust of the floor and the air reeks of vanilla.

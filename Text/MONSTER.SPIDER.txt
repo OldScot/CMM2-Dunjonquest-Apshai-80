@@ -1,0 +1,9 @@
+@'MONSTER.SPIDERS.TXT
+@<MONSTER.SKELETON
+@>MONSTER.SWAMP RAT
+@T
+Spiders
+This represents a whole nest of small spiders. These
+little killers are coal black and have white eyes.
+They inhabit small dark spaces such as the insides
+of chests.

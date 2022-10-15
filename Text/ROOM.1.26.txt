@@ -1,0 +1,9 @@
+@'ROOM.1.26.TXT
+@<ROOM.1.25
+@>ROOM.1.27
+@T
+Level 1 - Room Twenty-six
+A shallow pond fills most of the room. The
+surface of the water is covered with a white
+mold, except in the northeast corner where
+a clump of golden-brown seaweed is visible.

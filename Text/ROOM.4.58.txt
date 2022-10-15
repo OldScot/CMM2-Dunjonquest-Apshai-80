@@ -1,0 +1,9 @@
+@'ROOM.4.58.TXT
+@<ROOM.4.57
+@>ROOM.4.59
+@T
+Level 4 - Room Fifty-eight
+Is a small alcove. The south wall is of carved rock.
+The air smells strongly of vanilla and the floor
+shows frequent disturbance. A black stain marks the
+floor near the east wall.

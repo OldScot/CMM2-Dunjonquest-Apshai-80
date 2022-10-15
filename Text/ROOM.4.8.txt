@@ -1,0 +1,10 @@
+@'ROOM.4.8.TXT
+@<ROOM.4.7
+@>ROOM.4.9
+@T
+Level 4 - Room Eight
+Is another huge chamber. The dusty floor shows signs
+of frequent usage and the air is filled with the
+smell of vanilla. Rough cots line the walls and
+stand in rows in the middle of the room, each with a
+nondescript wooden box beneath it.

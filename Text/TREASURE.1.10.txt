@@ -1,0 +1,7 @@
+@'TREASURE.1.10.TXT
+@<TREASURE.1.9
+@>TREASURE.1.11
+@*KEY.GEMSJEWELRY
+@T
+Level 1 - Treasure Ten
+Resting in the dirt are five small diamonds*.

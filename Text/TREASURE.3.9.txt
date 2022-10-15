@@ -1,0 +1,7 @@
+@'TREASURE.3.9.TXT
+@<TREASURE.3.8
+@>TREASURE.3.10
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Nine
+Resting in the earth is one small emerald*.

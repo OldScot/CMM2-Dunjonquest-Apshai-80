@@ -1,0 +1,9 @@
+@'ROOM.2.6.TXT
+@<ROOM.2.5
+@>ROOM.2.7
+@T
+Level 2 - Room Six
+Two doors, one to the east and one to the west,
+are wooden and hang on brass hinges. The scraping
+sound grows fainter and the worn path along the
+center of the corridor continues.

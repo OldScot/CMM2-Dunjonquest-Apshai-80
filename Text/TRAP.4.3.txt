@@ -1,0 +1,9 @@
+@'TRAP.4.3.TXT
+@<TRAP.4.0
+@>TRAP.4.5
+@T
+Level 4 - PIT TRAP
+A twenty toot pit with a bed of spikes at the
+bottom opens beneath your feet. Still alive?
+Rough footholds have been dug in the earthen
+side of the pit.

@@ -1,0 +1,10 @@
+@'ROOM.3.37.TXT
+@<ROOM.3.36
+@>ROOM.3.38
+@T
+Level 3 - Room Thirty-seven
+Is a long cavern with bones littering the floor. A
+foot-worn path runs between the two openings. Off the
+path, travel is hindered by the many and bizarre rock
+formations. One of these resembles a giant hunting
+insect. A dead antman lies in the northwest corner.

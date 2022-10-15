@@ -1,0 +1,9 @@
+@'TREASURE.1.6.TXT
+@<TREASURE.1.5
+@>TREASURE.1.7
+@*KEY.FLORA
+@T
+Level 1 - Treasure Six
+Having enough to worry about at present your forgo
+sampling the mushrooms* for the time being and take
+some of each type for future examination.

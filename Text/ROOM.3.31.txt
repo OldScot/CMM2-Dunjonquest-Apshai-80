@@ -1,0 +1,9 @@
+@'ROOM.3.31.TXT
+@<ROOM.3.30
+@>ROOM.3.32
+@T
+Level 3 - Room Thirty-one
+Is a small excavated room. The room is coated with
+dust and the air is heavy with the odor of decaying
+flesh. An antman body lies half buried under a
+slide of earth in the southeast corner.

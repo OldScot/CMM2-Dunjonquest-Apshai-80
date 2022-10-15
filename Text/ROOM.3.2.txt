@@ -1,0 +1,8 @@
+@'ROOM.3.2.TXT
+@<ROOM.3.1
+@>ROOM.3.3
+@T
+Level 3 - Room Two
+Is a natural cavern. The opening to the
+north has been carved through the rock.
+Bones litter the floor along the walls.

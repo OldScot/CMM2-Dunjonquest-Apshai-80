@@ -1,0 +1,8 @@
+@'MONSTER.CENTIPEDE.TXT
+@<MONSTER.CRRN CRWLR
+@>MONSTER.GHOUL
+@T
+Centipedes
+This represents a nest of the little buggers such
+as might take up residence under a chest or in some
+remote crevice.  Their bites are mildly poisonous.

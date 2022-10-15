@@ -1,0 +1,6 @@
+@'TRAP.1.0.TXT
+@>TRAP.1.1.TXT
+@T
+Level 1 - FLAME TRAP
+
+An undocumented flame trap.

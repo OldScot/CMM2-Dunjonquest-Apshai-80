@@ -1,0 +1,10 @@
+@'ROOM.1.44.TXT
+@<ROOM.1.43
+@>ROOM.1.45
+@T
+Level 1 - Room Forty-four
+The tunnel floor is heavily coated with dried
+fluid and the aroma of vanilla is overpowering.
+The strange clicking sounds are now quite loud
+in this passage.
+

@@ -1,0 +1,8 @@
+@'TRAP.1.6.TXT
+@<TRAP.1.1
+@>TRAP.1.3
+@T
+Level 1 - NEEDLE TRAP
+
+A needle springs from the lock in the
+immediate vicinity of your hand.

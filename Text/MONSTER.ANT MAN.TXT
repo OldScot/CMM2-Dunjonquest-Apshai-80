@@ -1,0 +1,11 @@
+@'MONSTER.ANT MAN.TXT
+@>MONSTER.CRRN CRWLR
+@T
+AntMen
+These creatures look like six foor long ants walking
+upright on their hindmost legs with the other four legs
+free for manipulation. There are significant differences
+between the classes of antmen but unfortunately these
+differences are only discernible to other antmen. They
+attack with their mandibles and sometimes with their 
+forelegs as well.

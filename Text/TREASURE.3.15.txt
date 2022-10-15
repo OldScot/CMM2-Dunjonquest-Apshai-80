@@ -1,0 +1,10 @@
+@'TREASURE.3.15.TXT
+@<TREASURE.3.14
+@>TREASURE.3.16
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Fifteen
+Inside the sack you find three
+small diamonds*, a small ruby*,
+a ruby chalice*, a silver
+chain* and a pearl ring*.

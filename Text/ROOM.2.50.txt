@@ -1,0 +1,8 @@
+@'ROOM.2.50.TXT
+@<ROOM.2.43
+@>ROOM.2.51
+@T
+Level 2 - Room Forty-seven through Fifty
+Are small, cramped cells. Each cell has a wooden plank
+suspended by chains on the north wall. Clanking and
+moaning echo faintly through the cellblock.

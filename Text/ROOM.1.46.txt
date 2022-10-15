@@ -1,0 +1,12 @@
+@'ROOM.1.46.TXT
+@<ROOM.1.45
+@>ROOM.1.47
+@T
+Level 1 - Room Forty-six
+The vanilla odor is still strong. The ceiling of
+the cavern is hung with the moldering bodies of
+various creatures, mostly men. The shiny stuff is
+heavy on the floor and the clicking sound is
+heard clearly. Gems are visible in the dust of
+the cavern floor.
+

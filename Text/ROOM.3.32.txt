@@ -1,0 +1,7 @@
+@'ROOM.3.32.TXT
+@<ROOM.3.31
+@>ROOM.3.33
+@T
+Level 3 - Room Thirty-two
+Is a small excavated room. A discarded
+basket lies in the southeast corner.

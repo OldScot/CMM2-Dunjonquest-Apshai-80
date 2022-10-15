@@ -1,0 +1,9 @@
+@'TREASURE.2.1.TXT
+@<TREASURE.1.20
+@>TREASURE.2.2
+@*KEY.MISC
+@T
+Level 2 - Treasure One
+After coaxing open the cabinet you find a silver candelabra*,
+six silver trays* and a bronze skull mug* with mithril specks
+for eyes.

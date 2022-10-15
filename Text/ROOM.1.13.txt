@@ -1,0 +1,10 @@
+@'ROOM.1.13.TXT
+@<ROOM.1.12
+@>ROOM.1.14
+@T
+Level 1 - Room Thirteen
+The room is well lighted by the phosphorescent glow
+emanating from the greenish-yellow algae covering
+the high ceilings of native rock and well-worked
+stone walls to the north and south. A broken bow
+lies in two pieces on the floor near the east wall.

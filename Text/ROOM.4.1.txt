@@ -1,0 +1,11 @@
+@'ROOM.4.1.TXT
+@<ROOM.3.60
+@>ROOM.4.2
+@T
+Level 4 - Room One
+Is a natural passage with the floor carved level. A
+well trodden path in the dust of the floor runs the
+length of the corridor. The door at the end of the
+corridor is of iron bound wood and has a small,
+barred window at eye level. The air smells faintly
+of vanilla.

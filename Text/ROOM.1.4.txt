@@ -1,0 +1,10 @@
+@'ROOM.1.4.TXT
+@<ROOM.1.3
+@>ROOM.1.5
+@T
+Level 1 - Room Four
+Is a smoothly carved passage with a native granite
+ceiling. Slippery green moss fills every crack and
+crevice in the room, and the air is filled with its
+heavy scent. An empty purse lies in the southwest
+corner. A droning sound can be heard.

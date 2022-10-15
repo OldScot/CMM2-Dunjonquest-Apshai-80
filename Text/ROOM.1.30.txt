@@ -1,0 +1,12 @@
+@'ROOM.1.30.TXT
+@<ROOM.1.29
+@>ROOM.1.31
+@T
+Level 1 - Room Thirty
+The smoothly carved northern and southern sections
+of the chamber contrast sharply with the native
+granite found in the middle of the room, suggesting
+that is has been widened out from a natural
+passage. A quiver and some arrows lie on the floor
+in the middle of the chamber next to a sword and a
+broken bow.

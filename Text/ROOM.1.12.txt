@@ -1,0 +1,8 @@
+@'ROOM.1.12.TXT
+@<ROOM.1.11
+@>ROOM.1.13
+@T
+Level 1 - Room Twelve
+The floor, walls, and ceiling of the chamber bear
+the marks of tools. A glow fills the opening to
+the east and a foul, musty odor is in the air.

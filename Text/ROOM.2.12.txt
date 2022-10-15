@@ -1,0 +1,10 @@
+@'ROOM.2.12.TXT
+@<ROOM.2.11
+@>ROOM.2.13
+@T
+Level 2 - Room Twelve
+A bench along the west wall of the small chamber
+holds a neat array of jeweler's tools and a small
+forge on the south wall holds glowing embers. The
+dusty floor shows signs of recent disturbance and
+a strong smell of vanilla is in the air.

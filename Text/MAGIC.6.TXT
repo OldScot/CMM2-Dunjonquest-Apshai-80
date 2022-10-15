@@ -1,0 +1,8 @@
+@'MAGIC.6.TXT
+@T
+@<MAGIC.5
+@>MAGIC.7
+Magic Talismans
+
+These trinkets endow the holder with
+wondrous powers of mental perception.

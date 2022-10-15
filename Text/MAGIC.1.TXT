@@ -1,0 +1,9 @@
+@'MAGIC.1.TXT
+@T
+@>MAGIC.2
+Magic Arms
+
+These items are enhanced to varying potencies the exact
+nature of which is unavailable to adventurers. It it
+known that certain powerful blades glow the a light of
+their own. Beware of cursed items.

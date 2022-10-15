@@ -1,0 +1,9 @@
+@'ROOM.1.11.TXT
+@<ROOM.1.10
+@>ROOM.1.12
+@T
+Level 1 - Room Eleven
+A mist drifts into the corridor from an opening in
+the west wall and a deafening roar is heard. Moss
+covers the floor before the opening to the west
+and a rusty sword lies on the mossy stone.

@@ -1,0 +1,12 @@
+@'MONSTER.WRAITH.TXT
+@<MONSTER.VAMPIRE BAT
+@>MONSTER.ZOMBIE
+@T
+Wraiths
+These ghostly creatures appear as skeletal figures
+garbed in hooded frocks.  Their eyes are fiery
+points of light within their cowls. They move
+effortlessly about leaving no trace of their passing
+and are capable of passing through solid matter at
+will.  Many have died under the chill touch of their
+bony hands.

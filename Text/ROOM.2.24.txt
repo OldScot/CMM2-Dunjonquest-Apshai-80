@@ -1,0 +1,12 @@
+@'ROOM.2.24.TXT
+@<ROOM.2.23
+@>ROOM.2.25
+@T
+Level 2 - Room Twenty-four
+A desk sits against the north wall and a table and
+chair against the south wall. Along the east wall
+is a bed with a chest visible beneath it. The floor
+is covered with an unbroken layer of dust. The sound
+of flowing water can be heard from an opening in the
+northeast corner where a stream flows beneath the
+flooring.

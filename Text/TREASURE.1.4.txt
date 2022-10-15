@@ -1,0 +1,8 @@
+@'TREASURE.1.4.TXT
+@<TREASURE.1.3
+@>TREASURE.1.5
+@*KEY.MISC
+@T
+Level 1 - Treasure Four
+A beautiful cloak, wondrously
+light, yet tough as nails.* 

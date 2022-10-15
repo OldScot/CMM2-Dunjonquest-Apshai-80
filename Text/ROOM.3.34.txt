@@ -1,0 +1,8 @@
+@'ROOM.3.34.TXT
+@<ROOM.3.33
+@>ROOM.3.35
+@T
+Level 3 - Room Thirty-four
+Is a natural cave. The cave is covered with
+dust and the air is foul. A human body lies
+in the southwest corner.

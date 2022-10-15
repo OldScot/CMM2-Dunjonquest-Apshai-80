@@ -1,0 +1,7 @@
+@'ROOM.3.20.TXT
+@<ROOM.3.19
+@>ROOM.3.21
+@T
+Level 3 - Room Twenty
+Is a narrow excavated passage. An abandoned backpack
+rests on the floor in the eastern end of the passage.

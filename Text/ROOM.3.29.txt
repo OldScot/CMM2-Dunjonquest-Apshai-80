@@ -1,0 +1,10 @@
+@'ROOM.3.29.TXT
+@<ROOM.3.28
+@>ROOM.3.30
+@T
+Level 3 - Room Twenty-nine
+Is a small cave with the floor carved level. The
+dusty floor shows some marks of disturbance toward
+the opening to the east. The opening to the north
+has been carved through the stone. A single emerald
+gleams from midway up the west wall of the cave.

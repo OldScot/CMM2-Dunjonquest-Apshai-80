@@ -1,0 +1,9 @@
+@'ROOM.4.18.TXT
+@<ROOM.4.17
+@>ROOM.4.19
+@T
+Level 4 - Room Eighteen
+Is a small room. The north and south walls are
+hung with worn and battered shields and arms.
+The east wall bears a large plaque of beaten
+gold which appears to be an award of some kind.

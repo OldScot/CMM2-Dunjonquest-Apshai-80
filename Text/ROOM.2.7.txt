@@ -1,0 +1,11 @@
+@'ROOM.2.7.TXT
+@<ROOM.2.6
+@>ROOM.2.8
+@T
+Level 2 - Room Seven
+The north wall of the corridor is native granite,
+while the others are masonry. The worn path leads
+to a wooden door in the west wall from which
+dangles a heavy iron lock, now unfastened. The
+hinges of the door show signs of frequent use.
+The scraping sound can still be heard faintly.

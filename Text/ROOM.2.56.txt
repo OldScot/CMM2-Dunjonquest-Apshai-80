@@ -1,0 +1,9 @@
+@'ROOM.2.56.TXT
+@<ROOM.2.55
+@>ROOM.2.57
+@T
+Level 2 - Room Fifty-six
+Six cots line the west wall with six lockers placed
+along the north wall. A table and three broken
+chairs stand against the east wall. A strip of
+cloth lies on the stone floor next to the table.

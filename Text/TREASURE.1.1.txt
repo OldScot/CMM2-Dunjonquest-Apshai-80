@@ -1,0 +1,8 @@
+@'TREASURE.1.1.TXT
+@>TREASURE.1.2
+@*KEY.FLORA
+@T
+Level 1 - Treasure One
+Several of the lilies* can be reached. A vague memory
+of the healing properties of some Apshasian flowers
+prompts you to pluck them for later perusal. 

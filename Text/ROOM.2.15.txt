@@ -1,0 +1,10 @@
+@'ROOM.2.15.TXT
+@<ROOM.2.14
+@>ROOM.2.16
+@T
+Level 2 - Room Fifteen
+Three of the walls are lined with shelves containing
+dust covered beakers, phials, and jars. Evil looking
+substances in jars marked "eye of newt", "hair of
+frog," etc. occupy a table in the center of the
+room. An even layer of dust covers the floor.

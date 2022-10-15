@@ -1,0 +1,7 @@
+@'TREASURE.3.1.TXT
+@<TREASURE.2.20
+@>TREASURE.3.2
+@*KEY.MISC
+@T
+Level 3 - Treasure One
+Two gold nuggets*.

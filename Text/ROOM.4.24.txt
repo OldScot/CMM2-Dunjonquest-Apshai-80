@@ -1,0 +1,12 @@
+@'ROOM.4.24.TXT
+@<ROOM.4.23
+@>ROOM.4.25
+@T
+Level 4 - Room Twenty-four
+Is a long narrow room with wooden doors at either end.
+The walls are covered with arcane heiroglyphs and
+tapestries bearing the same glyphs hang beside the
+doors. The room looks often-used and the air smells
+heavily of vanilla. There are many wooden cots with
+tattered mattresses in the room. A large chest
+occupies the northwest corner of the room.

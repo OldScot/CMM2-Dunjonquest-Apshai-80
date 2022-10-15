@@ -1,0 +1,8 @@
+@'TREASURE.4.8.TXT
+@<TREASURE.4.7
+@>TREASURE.4.9
+@T
+Level 4 - Treasure Eight
+Beneath the body in the corner you discover
+two large sacks, each of which contains
+two hundred and fifty gold pieces.

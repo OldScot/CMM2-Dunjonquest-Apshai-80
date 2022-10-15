@@ -1,0 +1,9 @@
+@'ROOM.3.14.TXT
+@<ROOM.3.13
+@>ROOM.3.15
+@T
+Level 3 - Room Fourteen
+Is a wedge-shaped cavern with the ceiling sloping to
+meet the floor in the southwest corner. The dusty
+floor is much disturbed near the opening to the east.
+A smelly mound of trash fills the southwest corner.

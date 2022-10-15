@@ -1,0 +1,9 @@
+@'MONSTER.GNT BOMB BEETLE.TXT
+@<MONSTER.GIANT ANT
+@>MONSTER.FIRE BEETLE
+@T
+Giant Bombardier Beetles
+Are about three feet in diameter and fly around
+on a pair of glossy wings. They can generate a
+good speed on their little wings and attack
+their prey in bowling rushes.

@@ -1,0 +1,9 @@
+@'ROOM.4.57.TXT
+@<ROOM.4.56
+@>ROOM.4.58
+@T
+Level 4 - Room Fifty-seven
+Is a passage with stonework on the south wall and
+the north wall, floor and ceiling of carved rock.
+A brass plate lies in the dust in the middle of
+the corridor.

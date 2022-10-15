@@ -1,0 +1,8 @@
+@'ROOM.2.32.TXT
+@<ROOM.2.31
+@>ROOM.2.33
+@T
+Level 2 - Room Thirty-two
+A loud roaring sound can be heard from the
+northern end of the passageway and bits of
+bone litter the floor.

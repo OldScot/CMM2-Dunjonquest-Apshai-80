@@ -1,0 +1,9 @@
+@'ROOM.1.8.TXT
+@<ROOM.1.7
+@>ROOM.1.9
+@T
+Level 1 - Room Eight
+Is a passage with smooth stone walls and floor and
+a native rock ceiling. A loud roaring sound may be
+heard from the north. A humanoid skull rests on
+the floor in the middle of the passageway.

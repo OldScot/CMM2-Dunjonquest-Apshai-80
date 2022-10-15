@@ -1,0 +1,9 @@
+@'MONSTER.GIANT ANT.TXT
+@<MONSTER.GIANT AMOEBA
+@>MONSTER.GNT BOMB BEETLE
+@T
+Giant Ants
+These huge insects are four to six feet long and
+travel quickly on their six legs. They attack
+their prey with their large mandibles. They are
+entirely encased in a hard shell.

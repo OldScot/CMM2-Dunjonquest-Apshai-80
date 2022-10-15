@@ -1,0 +1,9 @@
+@'ROOM.3.6.TXT
+@<ROOM.3.5
+@>ROOM.3.7
+@T
+Level 3 - Room Six
+Is a natural cavern. A pile of litter fills the
+southwest corner. Animal tracks can be seen on
+the dusty floor and the air smells of musk and
+decay. The opening to the north shows tool marks.

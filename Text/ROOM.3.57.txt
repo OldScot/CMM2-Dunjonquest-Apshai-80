@@ -1,0 +1,8 @@
+@'ROOM.3.57.TXT
+@<ROOM.3.56
+@>ROOM.3.58
+@T
+Level 3 - Room Fifty-seven
+Is a natural passage with the floor carved level. The
+dusty floor shows some signs of passage. A small mound
+of fresh earth occupies the middle of the corndor.

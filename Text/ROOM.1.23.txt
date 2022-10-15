@@ -1,0 +1,10 @@
+@'ROOM.1.23.TXT
+@<ROOM.1.22
+@>ROOM.1.24
+@T
+Level 1 - Room Twenty-three
+The native rock walls of the room are covered with
+algae. Most of the algae is black and rotten, but
+the remaining brown patches have a nutty scent and
+taste like spiced bread. The exoskeleton of a
+huge ant lies in the middle of the chamber.

@@ -1,0 +1,8 @@
+@'ROOM.4.43.TXT
+@<ROOM.4.42
+@>ROOM.4.44
+@T
+Level 4 - Room Forty-three
+The doorway to the west is covered by a worn tapestry
+and the air smells of decay. Shelves line the east wall
+and hold a variety of articles forged of shiny metal.

@@ -1,0 +1,16 @@
+@'KEY.GEMSJEWELRY.TXT
+@>KEY.MISC
+@T
+Master Treasure Key - Gems and Jewelry
+1 Gold (GP) = 10 Silver (SP) = 100 Copper (CP)
+
+Gems                   Jewelry
+Small Diamond  100 SP  Diamond Goblet   2000 SP
+Small Emerald  200 SP  Diamond Ring      300 SP
+Small Ruby     400 SP  Diamond Stickpin 1000 SP
+Small Saphire  300 SP  Emerald Bracelet 5000 SP
+Large Ruby    3000 SP  Emerald Ring      500 SP
+                       Gold Chain       1000 SP
+                       Pearl Ring        200 SP
+                       Ruby Chalice     1100 SP
+                       Silver Chain      900 SP

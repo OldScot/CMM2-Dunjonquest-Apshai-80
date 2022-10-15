@@ -1,0 +1,17 @@
+@'ROOM.2.16.TXT
+@<ROOM.2.15
+@>ROOM.2.17
+@T
+Level 2 - Room Sixteen
+Is a chamber with stonework on the east and west walls.
+The other walls, floor and ceiling are of carved rock.
+A long table in the center of the room supports a
+network of flasks and tubing with a rusty iron oil
+burner beneath one end. A table against the south wall
+holds beakers of colored liquids with strange
+inscriptions and a desk in the southwest comer holds a
+tray with a pitcher of slime-covered milky liquid.
+Scraps of paper litter the floor around the desk. An
+even layer of dust covers the room. The doorways to the
+east and west are obscured by shredded tapestries
+embroidered with strange glyphs.

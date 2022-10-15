@@ -1,0 +1,12 @@
+@'ROOM.2.9.TXT
+@<ROOM.2.8
+@>ROOM.2.10
+@T
+Level 2 - Room Nine
+The stone in the east wall only shows signs of
+workmanship. Racks of motheaten robes, wadmal grey
+in color, fill the intenor of the room. Against the
+north wall stands a locked cedar cabinet and rock
+hung with the remains of more elaborate black and
+green robes A pungent odor fills the air and the
+dust of the floor is undisturbed.

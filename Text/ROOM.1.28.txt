@@ -1,0 +1,7 @@
+@'ROOM.1.28.TXT
+@<ROOM.1.27
+@>ROOM.1.29
+@T
+Level 1 - Room Twenty-eight
+The tunnel floor is streaked with a stinking slime
+and littered with small and medium-sized stones.

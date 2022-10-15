@@ -1,0 +1,11 @@
+@'ROOM.3.33.TXT
+@<ROOM.3.32
+@>ROOM.3.34
+@T
+Level 3 - Room Thirty-three
+Is a huge vaulted cavern with a leveled floor. The
+walls show the marks of ancient mining operations
+and a heap of rusting tools sits in the northeast
+corner. The floor shows marks of occasional transit
+through the opening to the west, which has been
+widened with tools.

@@ -1,0 +1,7 @@
+@'TREASURE.3.10.TXT
+@<TREASURE.3.9
+@>TREASURE.3.11
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Ten
+Laying in the dirt you find one small sapphire*.

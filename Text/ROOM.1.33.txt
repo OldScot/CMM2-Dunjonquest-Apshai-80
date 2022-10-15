@@ -1,0 +1,9 @@
+@'ROOM.1.33.TXT
+@<ROOM.1.32
+@>ROOM.1.34
+@T
+Level 1 - Room Thirty-three
+A shiny trail runs the length of the packed-earth
+tunnel and the odor of vanilla fills the air.
+The clicking grows louder.
+

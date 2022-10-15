@@ -1,0 +1,7 @@
+@'ROOM.2.53.TXT
+@<ROOM.2.47
+@>ROOM.2.55
+@T
+Level 2 - Room Fifty-one through Fifty-four
+Are small cells much like the others. The 
+clanking and moaning can be heard throughout.

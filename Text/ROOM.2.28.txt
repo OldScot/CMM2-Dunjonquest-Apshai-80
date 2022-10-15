@@ -1,0 +1,16 @@
+@'ROOM.2.28.TXT
+@<ROOM.2.27
+@>ROOM.2.29
+@T
+Level 2 - Room Twenty-eight
+The eastern door is wooden and is secured with a simple
+latch. The room is filled with tables against the north
+and south walls, holding a variety of metal working
+tools, all rusty with age. A small forge against the
+south wall is filled with litter. The scraping sound is
+heard loudest in the northeast corner where a metal
+shaft runs from floor to ceiling and is connected to a
+bank of grinding wheels by a complex system of gears
+and levers. Moving the levers causes the metal shaft to
+spin in place and a grinding sound comes from the
+attached gears.

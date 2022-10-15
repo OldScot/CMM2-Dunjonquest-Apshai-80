@@ -1,0 +1,8 @@
+@'ROOM.1.27.TXT
+@<ROOM.1.26
+@>ROOM.1.28
+@T
+Level 1 - Room Twenty-seven
+The floor of this tunnelled passage is streaked with
+slime. A well-wrought iron candlestick lies at the
+southern end of the tunnel.

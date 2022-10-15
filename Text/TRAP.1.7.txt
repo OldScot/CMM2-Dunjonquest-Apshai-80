@@ -1,0 +1,7 @@
+@'TRAP.1.7.TXT
+@<TRAP.1.6
+@>TRAP.1.8
+@T
+Level 1 - X-BOW TRAP
+
+An undocumented X-BOW trap.

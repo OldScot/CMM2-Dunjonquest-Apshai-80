@@ -1,0 +1,11 @@
+@'ROOM.3.43.TXT
+@<ROOM.3.42
+@>ROOM.3.44
+@T
+Level 3 - Room Forty-three
+Is a natural cave. The openings to the south and east
+have been dug through the earth but show no toolmarks.
+The floor is much travelled and the walls show signs
+of recent digging. A small basket in the southwest
+corner holds a few gold nuggets. The air is thick with
+the smell of vanilla.

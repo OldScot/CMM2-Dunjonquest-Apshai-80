@@ -1,0 +1,10 @@
+@'MAGIC.2.TXT
+@T
+@<MAGIC.1
+@>MAGIC.3
+Magic Books
+
+These items most commonly increase certain
+characteristics of the reader although other
+effects are not unheard of. Their effect is
+permanent.

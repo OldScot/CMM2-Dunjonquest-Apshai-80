@@ -1,0 +1,9 @@
+@'TREASURE.4.13.TXT
+@<TREASURE.4.12
+@>TREASURE.4.14
+@*KEY.MISC
+@T
+Level 4 - Treasure Thirteen
+The gold plaque* won't fit into your
+backpack but you decide to carry it
+along anyway.

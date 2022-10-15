@@ -1,0 +1,9 @@
+@'ROOM.4.51.TXT
+@<ROOM.4.50
+@>ROOM.4.52
+@T
+Level 4 - Room Fifty-one
+Is a passage like forty nine. The floor is covered with
+an even layer of dust and the air smells of decaying
+flesh. A small wooden box lies tipped over on the floor
+in the middle of the corridor.

@@ -1,0 +1,6 @@
+@'TREASURE.3.6.TXT
+@<TREASURE.3.5
+@>TREASURE.3.7
+@T
+Level 3 - Treasure Six
+Nothing of value.

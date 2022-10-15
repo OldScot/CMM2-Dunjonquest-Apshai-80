@@ -1,0 +1,6 @@
+@'ROOM.4.48.TXT
+@<ROOM.4.47
+@>ROOM.4.49
+@T
+Level 4 - Room Forty-eight
+Is a passage like 46.

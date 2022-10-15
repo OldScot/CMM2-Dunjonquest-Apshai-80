@@ -1,0 +1,10 @@
+@'MONSTER.FIRE BEETLE.TXT
+@<MONSTER.GNT BOMB BEETLE
+@>MONSTER.GNT LEECH
+@T
+Giant Fire Beetles
+These melon sized creatures are copper red beetles
+which are capable of generating tremendous heat
+within their bodies with which they attack they
+prey.  They have a think shell but move about very
+quickly on the wing.

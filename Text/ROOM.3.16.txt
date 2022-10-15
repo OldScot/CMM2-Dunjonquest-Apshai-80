@@ -1,0 +1,9 @@
+@'ROOM.3.16.TXT
+@<ROOM.3.15
+@>ROOM.3.17
+@T
+Level 3 - Room Sixteen
+Is a small cave The opening to the west has been
+carved through the rock. The dusty floor is
+undisturbed. A pouch is visible on the belt of a
+corpse lying in the southeast corner.

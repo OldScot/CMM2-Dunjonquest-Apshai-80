@@ -1,0 +1,10 @@
+@'TREASURE.3.17.TXT
+@<TREASURE.3.16
+@>TREASURE.3.18
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Seventeen
+In the corner you find a small
+sack with two small diamonds*,
+a small sapphire*, a small ruby*
+and a diamond goblet* inside.

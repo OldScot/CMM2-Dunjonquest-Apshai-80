@@ -1,0 +1,11 @@
+@'MONSTER.GHOUL.TXT
+@<MONSTER.CENTIPEDE
+@>MONSTER.GIANT AMOEBA
+@T
+Ghouls
+Are misshapen creatures with longer than normal arms,
+wicked claws, and a mouthful of razor sharp fangs
+which they ably employ to crack the bones of their
+prey.  They have tough hide and stand about seven feet
+tall.  They are said to eat the soul of their prey as
+it exits the dying body.

@@ -1,0 +1,8 @@
+@'ROOM.4.13.TXT
+@<ROOM.4.12
+@>ROOM.4.14
+@T
+Level 4 - Room Thirteen
+Is a corridor. A worn path on the dusty floor runs the
+length of the corridor and the air smells of vanilla.
+The door to the north is brass-bound wood.

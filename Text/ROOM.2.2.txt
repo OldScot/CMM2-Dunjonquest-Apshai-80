@@ -1,0 +1,12 @@
+@'ROOM.2.2.TXT
+@<ROOM.2.1
+@>ROOM.2.3
+@T
+Level 2 - Room Two
+The walls of the tunnel have been smoothed and widened
+with carving tools. A brass-bound wooden door is set
+into the north wall near the west end of the passage,
+its broken lock hanging from the corroded hasp. The
+scraping sound continues. The dusty path continues
+straight for a way, then disappears into a side
+passage to the south.

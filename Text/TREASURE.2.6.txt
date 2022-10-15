@@ -1,0 +1,11 @@
+@'TREASURE.2.6.TXT
+@<TREASURE.2.5
+@>TREASURE.2.7
+@*MAGIC.7
+@T
+Level 2 - Treasure Six
+Finding nothing of value in the room you
+pour the milky liquid into a water skin,
+just in case you happen to be dying of
+thirst in the desert some day (see Milky
+white Potion*).

@@ -1,0 +1,7 @@
+@'TRAP.3.3.TXT
+@<TRAP.3.4
+@>TRAP.3.5
+@T
+Level 3 - PIT TRAP
+
+An undocumented pit trap.

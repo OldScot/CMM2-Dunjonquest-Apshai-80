@@ -1,0 +1,12 @@
+@'TRAP.3.8.TXT
+@<TRAP.2.7
+@>TRAP.4.1
+@T
+Level 3 - CAVE IN TRAP
+
+There are no traps per se in the Apshaian mines.
+One never knows, however, when a rock might loose
+itself and cause severe damage to those unfortunate
+enough to be standing below. For this reason it is
+highly recommended that all visitors wear helmets
+while wandering through the ancient caverns.

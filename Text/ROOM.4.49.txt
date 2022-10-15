@@ -1,0 +1,11 @@
+@'ROOM.4.49.TXT
+@<ROOM.4.48
+@>ROOM.4.50
+@T
+Level 4 - Room Forty-nine
+Is a passage with stonework on the south wall and the
+other wall, floor and ceiling of carved rock. A faint
+path on the dusty floor leads along the south wall and
+the air smells slightly of vanilla. A broken bow and
+an empty quiver rest against the north wall halfway
+down the passage.

@@ -1,0 +1,8 @@
+@'ROOM.3.46.TXT
+@<ROOM.3.45
+@>ROOM.3.47
+@T
+Level 3 - Room Forty-six
+Is a cave. The dust shows a beaten path between the
+two openings, A pile of bones litters the southeast
+corner. A faint smell of vanilla is in the air.

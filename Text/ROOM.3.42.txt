@@ -1,0 +1,9 @@
+@'ROOM.3.42.TXT
+@<ROOM.3.41
+@>ROOM.3.43
+@T
+Level 3 - Room Forty-two
+Is a natural cave. The floor shows marks of frequent
+passage and the walls bear the marks of recent digging,
+A small basket in the northwest corner holds gold
+nuggets. The air is thick with the smell of vanilla.

@@ -1,0 +1,7 @@
+@'TREASURE.1.16.TXT
+@<TREASURE.1.15
+@>TREASURE.1.17
+@T
+Level 1 - Treasure Sixteen
+Inside the cabinet you find arrows with
+mithril worked into the points.

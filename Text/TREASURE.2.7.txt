@@ -1,0 +1,11 @@
+@'TREASURE.2.7.TXT
+@<TREASURE.2.6
+@>TREASURE.2.8
+@*MAGIC.6
+@T
+Level 2 - Treasure Seven
+After jimmying the lock you find five
+hundred copper pieces and four hundred
+silver pieces as well as a porcelain
+talisman inscribed with mithril runes
+(see Magic Talisman*).

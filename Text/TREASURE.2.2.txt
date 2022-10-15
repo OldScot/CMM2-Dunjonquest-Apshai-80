@@ -1,0 +1,6 @@
+@'TREASURE.2.2.TXT
+@<TREASURE.2.1
+@>TREASURE.2.3
+@T
+Level 2 - Treasure Two
+Fifty silver pieces.

@@ -1,0 +1,12 @@
+@'ROOM.1.56.TXT
+@<ROOM.1.55
+@>ROOM.2.1
+@T
+Level 1 - Room Fifty-six
+Is a passage with rough stone walls and floor and
+a native granite ceiling. The south wall of the
+passage is faced with smooth squarish stones near
+the far end, while the floor and other walls are
+of a rough stone. A foul, musty odor fills the
+air and a thin layer of moss coats the floor at
+the extreme end of the passage.

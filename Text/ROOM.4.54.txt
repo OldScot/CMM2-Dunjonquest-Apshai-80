@@ -1,0 +1,9 @@
+@'ROOM.4.54.TXT
+@<ROOM.4.53
+@>ROOM.4.55
+@T
+Level 4 - Room Fifty-four
+Is a passage with stonework on the south wall and
+the north wall, floor and ceiling of carved rock.
+The dusty floor evidences some activity near the
+south wall.

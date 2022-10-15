@@ -1,0 +1,9 @@
+@'ROOM.4.31.TXT
+@<ROOM.4.30
+@>ROOM.4.32
+@T
+Level 4 - Room Thirty-one
+Is a passage. The dusty floor shows the tracks of
+large animals and the smell of musk is in the air.
+Faint clicking sounds can be heard from the east
+end of the passage.

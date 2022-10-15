@@ -1,0 +1,12 @@
+@'ROOM.1.15.TXT
+@<ROOM.1.14
+@>ROOM.1.16
+@T
+Level 1 - Room Fifteen
+Is an irregular cave of native rock. The walls and
+floor are covered with a heavy matting of multi-hued
+moss. The walls are brilliant reds, greens, and blues,
+while the floor is a pastel yellow. A wooden box lies
+topless in the middle of the cavern floor. Inside lies
+a well-made cloak. The material of the cloak seems to
+shimmer in the torchlight.

@@ -1,0 +1,11 @@
+@'ROOM.3.51.TXT
+@<ROOM.3.50
+@>ROOM.3.52
+@T
+Level 3 - Room Fifty-one
+Is a small excavated chamber. A well-worn path runs
+between the north and west openings with a fainter
+trail to the east. The air smells faintly of vanilla
+intermingled with the odor of decayed flesh. A newly
+slain antman lies in the southwest corner with a
+spilled basket of gold nuggets nearby.

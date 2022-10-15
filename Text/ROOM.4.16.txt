@@ -1,0 +1,10 @@
+@'ROOM.4.16.TXT
+@<ROOM.4.15
+@>ROOM.4.17
+@T
+Level 4 - Room Sixteen
+Is a largish room. A small desk stands against the
+wall to the south and a larger desk occupies the
+west wall. The dusty floor shows faint marks of
+disturbance and the air smells musty. The door to
+the west is of brass hound wood and stands ajar.

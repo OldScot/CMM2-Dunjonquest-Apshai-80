@@ -1,0 +1,9 @@
+@'ROOM.1.41.TXT
+@<ROOM.1.40
+@>ROOM.1.42
+@T
+Level 1 - Room Forty-one
+The trail of dried fluid is heavier here and
+the odor of vanilla is almost unbearable. The
+clicking sound grows louder in this passage.
+

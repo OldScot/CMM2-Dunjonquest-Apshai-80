@@ -1,0 +1,12 @@
+@'ROOM.1.25.TXT
+@<ROOM.1.24
+@>ROOM.1.26
+@T
+Level 1 - Room Twenty-five
+A stagnant pond fills the south end of the carved
+stone chamber, with a narrow landing at the south
+end. White mold covers the surface of the water,
+save the southeast corner, where a gold-colored
+seaweed is in evidence. Tests will reveal the
+water to be three feet deep, but the bottom of
+the pool cannot be seen through the murk.

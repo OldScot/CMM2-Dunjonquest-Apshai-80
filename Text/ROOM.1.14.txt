@@ -1,0 +1,9 @@
+@'ROOM.1.14.TXT
+@<ROOM.1.13
+@>ROOM.1.15
+@T
+Level 1 - Room Fourteen
+A loud roaring sound may be heard from the west end
+of the passage. A pyramid of medium-sized stones
+fills one corner of the north wall at the east end
+of the corridor.

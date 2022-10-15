@@ -1,0 +1,7 @@
+@'TRAP.4.7.TXT
+@<TRAP.4.6
+@>TRAP.4.8
+@T
+Level 4 - X-BOW TRAP
+
+An undocumented x-bow trap.

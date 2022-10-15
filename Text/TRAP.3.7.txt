@@ -1,0 +1,7 @@
+@'TRAP.3.7.TXT
+@<TRAP.3.6
+@>TRAP.3.8
+@T
+Level 3 - X-BOW TRAP
+
+An undocumented x-bow trap.

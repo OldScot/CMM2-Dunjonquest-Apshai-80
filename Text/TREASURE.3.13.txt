@@ -1,0 +1,8 @@
+@'TREASURE.3.13.TXT
+@<TREASURE.3.12
+@>TREASURE.3.14
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Thirteen
+One small ruby* and one small
+diamond* lay in the earth.

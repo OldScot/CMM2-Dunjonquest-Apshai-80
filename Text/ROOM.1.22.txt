@@ -1,0 +1,9 @@
+@'ROOM.1.22.TXT
+@<ROOM.1.21
+@>ROOM.1.23
+@T
+Level 1 - Room Twenty-two
+This cavern is also overgrown with the same types of
+mushrooms as are found in room twenty-one. A skeleton
+lies among the mushrooms still clutching the remnants
+of a sack.

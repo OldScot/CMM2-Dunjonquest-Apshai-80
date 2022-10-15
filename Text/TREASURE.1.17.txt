@@ -1,0 +1,8 @@
+@'TREASURE.1.17.TXT
+@<TREASURE.1.16
+@>TREASURE.1.18
+@*KEY.MISC
+@T
+Level 1 - Treasure Seventeen
+This much copper has got to be valuable so you
+slip the ingot into your sack (see Copper Ingot*).  

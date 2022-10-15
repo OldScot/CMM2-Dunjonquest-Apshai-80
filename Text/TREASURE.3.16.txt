@@ -1,0 +1,8 @@
+@'TREASURE.3.16.TXT
+@<TREASURE.3.15
+@>TREASURE.3.17
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Sixteen
+A small pouch containing two small
+diamonds* and a small ruby*.

@@ -1,0 +1,11 @@
+@'ROOM.1.6.TXT
+@<ROOM.1.5
+@>ROOM.1.7
+@T
+Level 1 - Room Six
+Water flows into this chamber from the northern part
+of the west wall and out again through the southern
+part of the same wall. The surface of the water is
+covered with moss and multi-colored lilies, some
+within reach of the landing. Experiments will
+reveal the water to be about three feet deep.

@@ -1,0 +1,10 @@
+@'ROOM.2.11.TXT
+@<ROOM.2.10
+@>ROOM.2.12
+@T
+Level 2 - Room Eleven
+A strong, musky odor intermingles with the smell
+of decay. Casks and crates are stacked along the
+walls and in rows down the center of the room.
+The sound of flowing water can be heard through
+the floor and a vibration can be felt.

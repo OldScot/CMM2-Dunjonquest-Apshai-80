@@ -1,0 +1,14 @@
+@'ROOM.4.25B.TXT
+@<ROOM.4.25
+@>ROOM.4.26
+@T
+Level 4 - Room Twenty-five Continued
+the east wall is a raised black marble altar, carved with
+glyphs that give off a faint, eerie green glow. On the altar
+itself is a large marble statue of a praying mantis, forelegs
+outstretched and mandibles open. The eyes of the mantis are
+great rubies - a fine treasure if you dare grab them! A human
+skull stares eyelessly from the steps leading to the altar.
+The doors to the north and south are of brass-bound oak,
+while the doorway to the east is covered with a worn tapestry.
+(Previous <-)

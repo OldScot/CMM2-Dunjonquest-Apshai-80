@@ -1,0 +1,8 @@
+@'ROOM.3.36.TXT
+@<ROOM.3.35
+@>ROOM.3.37
+@T
+Level 3 - Room Thirty-six
+Is a smallish excavated chamber. A mound
+of freshly dug dirt in the northeast
+corner evidences a yellow glitter.

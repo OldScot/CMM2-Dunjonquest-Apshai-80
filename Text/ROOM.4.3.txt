@@ -1,0 +1,8 @@
+@'ROOM.4.3.TXT
+@<ROOM.4.2
+@>ROOM.4.4
+@T
+Level 4 - Room Three
+Is a passage with an even layer of dust covering
+the floor. A discarded sack rests against the west
+wall halfway down the corridor.

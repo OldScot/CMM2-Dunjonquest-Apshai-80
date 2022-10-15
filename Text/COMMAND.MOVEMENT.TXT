@@ -1,0 +1,9 @@
+@'COMMAND.MOVEMENT.TXT
+@>COMMAND.SPECIAL
+@T
+Movement Commands
+
+0 to 9  Move forward 0 to 9 feet
+R       Turn right
+L       Turn Left
+V       Turn around (volte-face)

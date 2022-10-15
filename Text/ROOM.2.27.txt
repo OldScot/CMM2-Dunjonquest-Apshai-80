@@ -1,0 +1,9 @@
+@'ROOM.2.27.TXT
+@<ROOM.2.26
+@>ROOM.2.28
+@T
+Level 2 - Room Twenty-seven
+An underground stream flows through an opening
+beneath the eastern half of the floor. The walls
+and floor of the room are covered with moss and
+a malodorous slime.

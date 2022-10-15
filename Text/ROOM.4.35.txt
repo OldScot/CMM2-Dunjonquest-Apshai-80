@@ -1,0 +1,8 @@
+@'ROOM.4.35.TXT
+@<ROOM.4.34
+@>ROOM.4.36
+@T
+Level 4 - Room Thirty-five
+A bed occupies the north wall with a desk on the
+south wall and a large cabinet against the east
+wall. The dusty floor shows no signs of disturbance.

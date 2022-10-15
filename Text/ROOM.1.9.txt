@@ -1,0 +1,10 @@
+@'ROOM.1.9.TXT
+@<ROOM.1.8
+@>ROOM.1.10
+@T
+Level 1 - Room Nine
+Is of roughly hewn stone. The floor has been
+levelled by manmade means, but the walls and ceiling
+are native rock. Cobwebs fill every crack and hang
+from the ceiling, dancing slowly in the slight
+breeze. A cloying, sweet odor fills the air.

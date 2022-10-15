@@ -1,0 +1,7 @@
+@'ROOM.3.21.TXT
+@<ROOM.3.20
+@>ROOM.3.22
+@T
+Level 3 - Room Twenty-one
+Is a narrow passage. Half of a giant rat
+lies in the southern end of the passage.

@@ -1,0 +1,11 @@
+@'ROOM.3.9.TXT
+@<ROOM.3.8
+@>ROOM.3.10
+@T
+Level 3 - Room Nine
+Is a natural gallery with a high vaulted ceiling and
+a rough stone floor. A heap of litter and bones
+fills the southeast corner and the floor shows the
+tracks of large animals. The air smells of musk and
+decay. The opening to the south has been widened
+with carving tools.

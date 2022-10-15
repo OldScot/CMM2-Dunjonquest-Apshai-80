@@ -1,0 +1,11 @@
+@'ROOM.4.19.TXT
+@<ROOM.4.18
+@>ROOM.4.20
+@T
+Level 4 - Room Nineteen
+Is a large room with the south wall of carved rock.
+The room is austerely furnished with wooden planks
+hanging from chains on the east, west, and south
+walls. The floor is covered with mouldering straw
+and the air reeks of decay and vanilla. A dead rat
+lies in the center of the floor.

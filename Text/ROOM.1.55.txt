@@ -1,0 +1,11 @@
+@'ROOM.1.55.TXT
+@<ROOM.1.54
+@>ROOM.1.56
+@T
+Level 1 - Room Fifty-five
+Is a rough stone cave save for the smoothly carved
+north wall. Dust covers the floor of the room
+several inches thick and cobwebs hang from the
+ceiling and fill every crack of the floor and walls.
+A small box is visible in the dust in the southwest
+corner.

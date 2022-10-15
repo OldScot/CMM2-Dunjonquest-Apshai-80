@@ -1,0 +1,7 @@
+@'TRAP.3.5.TXT
+@<TRAP.3.4
+@>TRAP.3.6
+@T
+Level 2 - SPEAR TRAP
+
+An undocumented spear trap.

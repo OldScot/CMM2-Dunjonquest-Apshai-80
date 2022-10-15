@@ -1,0 +1,11 @@
+@'ROOM.4.28.TXT
+@<ROOM.4.27
+@>ROOM.4.29
+@T
+Level 4 - Room Twenty-eight
+Is a long, low-ceilinged room, lined with long
+stone tables running in rows north and south
+across the room. The dusty floor shows the tracks
+of large animals and the room reeks of musk and
+offal. The doors to the north and south are wooden
+and have no locks.

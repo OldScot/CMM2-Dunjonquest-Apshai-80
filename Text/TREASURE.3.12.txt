@@ -1,0 +1,8 @@
+@'TREASURE.3.12.TXT
+@<TREASURE.3.11
+@>TREASURE.3.13
+@*KEY.GEMSJEWELRY
+@T
+Level 3 - Treasure Twelve
+One small emerald* and one small
+diamond* gleam from the dirt.

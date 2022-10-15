@@ -1,0 +1,9 @@
+@'ROOM.4.2.TXT
+@<ROOM.4.1
+@>ROOM.4.3
+@T
+Level 4 - Room Two
+Has stonework walls, floor and ceiling. The dusty floor
+is much disturbed and the air smells strongly of vanilla.
+A wooden table and four chairs stand in the middle of the
+room. The door to the west is wooden.

@@ -1,0 +1,7 @@
+@'TREASURE.1.9.TXT
+@<TREASURE.1.8
+@>TREASURE.1.10
+@*KEY.MISC
+@C
+Level 1 - Treasure Nine
+The arrows all have silver points (see Silver Arrows*).

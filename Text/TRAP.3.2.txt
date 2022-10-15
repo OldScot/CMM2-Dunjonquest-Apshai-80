@@ -1,0 +1,7 @@
+@'TRAP.3.2.TXT
+@<TRAP.3.1
+@>TRAP.3.3
+@T
+Level 3 - MOLD TRAP
+
+An undocumented mold trap.

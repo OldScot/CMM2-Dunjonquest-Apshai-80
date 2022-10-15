@@ -1,0 +1,9 @@
+@'ROOM.4.44.TXT
+@<ROOM.4.43
+@>ROOM.4.45
+@T
+Level 4 - Room Forty-four
+The south wall and ceiling of the passage are carved
+of native rock. The dusty floor is much disturbed,
+especially near the brass-bound wooden door to the
+south. The corridor smells strongly of vanilla.

@@ -1,0 +1,8 @@
+@'MAGIC.3.TXT
+@T
+@<MAGIC.2
+@>MAGIC.4
+Magic Boots
+
+Rumor has it that these boots enable
+the wearer to run like the wind.

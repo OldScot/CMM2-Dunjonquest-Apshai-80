@@ -1,0 +1,8 @@
+@'ROOM.1.54.TXT
+@<ROOM.1.53
+@>ROOM.1.55
+@T
+Level 1 - Room Fifty-four
+A dusty wooden chest sits in the southeast corner,
+the iron lock rusted through and the wood decaying
+from the dampness.

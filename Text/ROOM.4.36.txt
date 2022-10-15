@@ -1,0 +1,10 @@
+@'ROOM.4.36.TXT
+@<ROOM.4.35
+@>ROOM.4.37
+@T
+Level 4 - Room Thirty-six
+Is a largish room with stonework walls, floor and
+ceiling. The room is furnished with ramshackle chairs,
+tables and cushions and the remains of books and
+scrolls litter the apartment. A large desk and chair
+occupy the center of the east wall.

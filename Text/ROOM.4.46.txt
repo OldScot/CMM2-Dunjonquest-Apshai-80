@@ -1,0 +1,11 @@
+@'ROOM.4.46.TXT
+@<ROOM.4.45
+@>ROOM.4.47
+@T
+Level 4 - Room Forty-six
+Is a passage with stonework on the west wall and the
+other walls, floor and ceiling of carved rock. The
+dusty floor shows a faint trail running the length of
+the corridor along the west wall and a hint of vanilla
+is in the air. A discarded backpack rests against the
+east wall in the north end of the passage.

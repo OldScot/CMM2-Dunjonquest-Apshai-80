@@ -1,0 +1,10 @@
+@'ROOM.3.59.TXT
+@<ROOM.3.58
+@>ROOM.3.60
+@T
+Level 3 - Room Fifty-nine
+Is a narrow passage. The opening to the north has
+been dug through the earth but shows no toolmarks.
+A well-worn path runs from the opening in the west
+wall into the northern passage. The air smells
+faintly of vanilla.

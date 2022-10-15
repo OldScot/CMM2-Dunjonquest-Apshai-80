@@ -1,0 +1,10 @@
+@'ROOM.4.23.TXT
+@<ROOM.4.22
+@>ROOM.4.24
+@T
+Level 4 - Room Twenty-three
+A well-worn path in the dust runs the length of
+the corridor and to the door in the north wall.
+The latter is brass-bound oak and in good repair. 
+It bears a strange inscription that glows with a
+green light in the gloom. The air smells of vanilla.

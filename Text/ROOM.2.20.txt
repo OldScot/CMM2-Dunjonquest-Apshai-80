@@ -1,0 +1,13 @@
+@'ROOM.2.20.TXT
+@<ROOM.2.19
+@>ROOM.2.21
+@T
+Level 2 - Room Twenty
+Leather hangings on the west wall cover a doorway. The
+room is littered with sawdust and rusty woodworking
+tools. A metal shaft runs from floor to ceiling in the
+southwest corner, attached to a large sawblade by a
+complex system of gears and levers, all rusty from age
+and disuse. The scraping sound is now very loud. If you
+move one of the levers, it will cause a loud screeching
+beneath the floor.

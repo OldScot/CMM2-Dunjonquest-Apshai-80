@@ -1,0 +1,8 @@
+@'ROOM.3.15.TXT
+@<ROOM.3.14
+@>ROOM.3.16
+@T
+Level 3 - Room Fifteen
+Is a natural cave. A large boulder fills the
+northwest corner. A bony hand protruding from
+beneath it still clutches a small ruby.

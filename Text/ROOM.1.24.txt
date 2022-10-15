@@ -1,0 +1,8 @@
+@'ROOM.1.24.TXT
+@<ROOM.1.23
+@>ROOM.1.25
+@T
+Level 1 - Room Twenty-four
+Is a mossy, carved stone landing. The air is very
+humid and smells of damp and mold. A slime-covered
+sack rests against the eastern wall of the landing.

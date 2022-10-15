@@ -1,0 +1,9 @@
+@'ROOM.3.38.TXT
+@<ROOM.3.37
+@>ROOM.3.39
+@T
+Level 3 - Room Thirty-eight
+Is a large cavern with the floor carved level.
+A worn path runs between the two openings. A
+large wooden box is set against the wall in
+the southeast corner.

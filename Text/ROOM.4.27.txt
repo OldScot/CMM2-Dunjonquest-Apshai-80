@@ -1,0 +1,10 @@
+@'ROOM.4.27.TXT
+@<ROOM.4.26
+@>ROOM.4.28
+@T
+Level 4 - Room Twenty-seven
+The floor bears the tracks of large animals. The
+partially eaten carcass of an antman lies near the
+western end of the corridor. The door to the north
+is brass bound wood and stands unlatched. The air
+smells heavily of decay and musk.

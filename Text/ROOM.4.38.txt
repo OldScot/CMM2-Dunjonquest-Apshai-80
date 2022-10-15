@@ -1,0 +1,10 @@
+@'ROOM.4.38.TXT
+@<ROOM.4.37
+@>ROOM.4.39
+@T
+Level 4 - Room Thirty-eight
+The floor of the room is covered with the remains of
+straw mats. A variety of pieces of martial equipment
+litter the mats along the walls. In the northeast
+corner, a bony elbow pokes through a rent in a suit of
+rusty chainmail. A gnawed thighbone lies near the door.

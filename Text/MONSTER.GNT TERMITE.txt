@@ -1,0 +1,8 @@
+@'MONSTER.GNT TERMITE.TXT
+@<MONSTER.GIANT SPIDER
+@>MONSTER.GIANT TICK
+@T
+Giant Termites
+Are two to three feet long and move about on
+flimsy wings. They have soft shells and are
+brown in color.

@@ -1,0 +1,11 @@
+@'ROOM.4.55.TXT
+@<ROOM.4.54
+@>ROOM.4.56
+@T
+Level 4 - Room Fifty-five
+Is a passage with stonework on the south and east walls
+and the other walls, floor, and ceiling of carved rock.
+The upper portion of the corridor is sheathed in cobwebs
+and a larger web fills the south end of the passage. A
+small sack lies near the west wall partway down the
+corridor, silver pieces spilling from its mouth.

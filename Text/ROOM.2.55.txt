@@ -1,0 +1,13 @@
+@'ROOM.2.55.TXT
+@<ROOM.2.51
+@>ROOM.2.56
+@T
+Level 2 - Room Fifty-five
+Is a large natural cavern, except for the western
+portion of the south wall, which is stonework. A
+large waterfall plummets from the ceiling to a pool
+in the rear of the cavern, blanketing the area in
+mist. The chamber reverberates with the roar of the
+cataract. Lying near the bank of the pond is a
+moss-covered sack. The air is filled with the fresh
+scent of the many mosses and ferns growing about.

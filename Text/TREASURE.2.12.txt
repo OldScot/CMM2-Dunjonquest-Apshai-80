@@ -1,0 +1,9 @@
+@'TREASURE.2.12.TXT
+@<TREASURE.2.11
+@>TREASURE.2.20
+@T
+Level 2 - Treasure Twelve
+Under the mattress on the bed you
+find a moneybelt containing two
+hundred silver pieces and thirty
+gold pieces.

@@ -1,0 +1,8 @@
+@'ROOM.4.47.TXT
+@<ROOM.4.46
+@>ROOM.4.48
+@T
+Level 4 - Room Forty-seven
+Is a passage like 46. The path in the dust
+continues along the west wall. A rusty sword
+rests on the floor near the middle of the passage.

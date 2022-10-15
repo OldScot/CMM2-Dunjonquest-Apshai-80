@@ -1,0 +1,9 @@
+@'ROOM.4.60.TXT
+@<ROOM.4.59
+@T
+Level 4 - Room Sixty
+Is the western extremity of room twenty nine. The walls,
+floor and ceiling are stonework. The floor is covered
+with the spoor of large animals and the air reeks of rot
+and musk, A heap of partially eaten human and antman
+bodies fills the southwest corner.

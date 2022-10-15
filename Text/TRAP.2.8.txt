@@ -1,0 +1,7 @@
+@'TRAP.2.8.TXT
+@<TRAP.2.7
+@>TRAP.2.9
+@T
+Level 2 - CAVE IN TRAP
+
+An undocumeted cave in trap.

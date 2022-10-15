@@ -1,0 +1,9 @@
+@'MONSTER.ZOMBIE.TXT
+@<MONSTER.WRAITH
+@T
+Zombies
+These creatures are animated corpses which stalk
+the dark passages in search of prey. They sometimes
+utilize weapons garnered from their poor victims.
+They too are said to devour the souls of their
+victims as these exit the dying bodies.

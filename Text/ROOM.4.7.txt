@@ -1,0 +1,12 @@
+@'ROOM.4.7.TXT
+@<ROOM.4.6
+@>ROOM.4.8
+@T
+Level 4 - Room Seven
+Is a huge chamber with stonework on the floor,
+ceiling and all but the west wall, which is of
+carved rock. The room is filled with rough cots
+and the west wall is lined with a variety of
+chests. The floor shows signs of frequent
+disturbance and the smell of vanilla is heavy
+in the air.

@@ -1,0 +1,6 @@
+@'ROOM.2.31.TXT
+@<ROOM.2.30
+@>ROOM.2.32
+@T
+Level 2 - Room Thirty-one
+Is a smalt cave. Racks of rusty weapons line the walls.

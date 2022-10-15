@@ -1,0 +1,8 @@
+@'ROOM.2.36.TXT
+@<ROOM.2.35
+@>ROOM.2.37
+@T
+Level 2 - Room Thirty-six
+Dark stains mar the floor of the passage and
+moans and the rattling of chains echo faintly
+through the corndor.

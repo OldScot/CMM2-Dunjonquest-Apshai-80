@@ -1,0 +1,11 @@
+@'ROOM.3.58.TXT
+@<ROOM.3.57
+@>ROOM.3.59
+@T
+Level 3 - Room Fifty-eight
+Is a natural cavern with a rough stone floor. A
+skeleton in the southwest corner still wears the
+remains of a rotting backpack. Small bones litter
+the floor. Torchlight creates vague shadows that
+suggest beasts, or worse, lurking in the corners
+of the chamber.

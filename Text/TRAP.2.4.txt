@@ -1,0 +1,7 @@
+@'TRAP.2.4.TXT
+@<TRAP.2.3
+@>TRAP.2.5
+@T
+Level 2 - DAGGER TRAP
+
+An undocumented dagger trap.
